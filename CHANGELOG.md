@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.0-alpha.1] - 2022-09-12
+
+### <!-- 07 -->Continuous Integrations
+
+- Replace `yarn` by `pnpm` over `build` workflow
+- Add concurrency settings to `build` workflow
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Add `wrangler` for develop and serve functions
+- Change package name over package file
+
 ## [1.0.0-alpha.0] - 2022-09-12
 
 ### <!-- 04 -->Refactor
