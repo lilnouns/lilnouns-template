@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.0-alpha.4] - 2022-09-22
+
+### <!-- 04 -->Refactor
+
+- Add a middleware to the page functions to proxy main api requests
+
 ## [1.0.0-alpha.3] - 2022-09-21
 
 ### <!-- 08 -->Miscellaneous Tasks
