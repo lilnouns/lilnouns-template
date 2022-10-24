@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.0-alpha.9] - 2022-10-24
+
+### <!-- 07 -->Continuous Integrations
+
+- Add node version `18` to the `build` workflow
+- Add node version `19` to the `build` workflow
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Change package version to 1.0.0-alpha.0
+
 ## [1.0.0-alpha.8] - 2022-10-24
 
 ### <!-- 07 -->Continuous Integrations
