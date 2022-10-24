@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.0-alpha.8] - 2022-10-24
+
+### <!-- 07 -->Continuous Integrations
+
+- Add missing environmental variables for `build` workflow
+
 ## [1.0.0-alpha.7] - 2022-10-24
 
 ### <!-- 07 -->Continuous Integrations
