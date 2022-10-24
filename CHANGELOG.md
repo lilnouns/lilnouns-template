@@ -2,7 +2,19 @@
 
 All notable changes to this project will be documented in this file.
 
-## [1.0.0-alpha.6] - 2022-10-19
+## [1.0.0-alpha.7] - 2022-10-24
+
+### <!-- 07 -->Continuous Integrations
+
+- Patching `set-output` on `build` workflow
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump eslint from 8.25.0 to 8.26.0
+- Bump @types/node from 18.11.2 to 18.11.4
+- Update `pnpm` lockfile state
+
+## [1.0.0-alpha.6] - 2022-10-20
 
 ### <!-- 07 -->Continuous Integrations
 
