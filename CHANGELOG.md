@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.0-alpha.10] - 2022-10-26
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump @types/node from 18.11.4 to 18.11.5
+- Bump eslint-config-next from 12.3.1 to 13.0.0
+- Bump next from 12.3.1 to 13.0.0
+- Bump @types/react-dom from 18.0.6 to 18.0.7
+- Bump @types/react from 18.0.21 to 18.0.23
+
 ## [1.0.0-alpha.9] - 2022-10-24
 
 ### <!-- 07 -->Continuous Integrations
