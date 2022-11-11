@@ -2,6 +2,29 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.0-alpha.12] - 2022-11-11
+
+### <!-- 02 -->Bug Fixes
+
+- Solve react hydration error by adding `useIsMounted`
+
+### <!-- 05 -->Documentation
+
+- Update and improve the project readme file
+
+### <!-- 07 -->Continuous Integrations
+
+- Add the `pnpm` workflow to update lock file
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump @types/node from 18.11.8 to 18.11.9 ([#44](https://github.com/orhun/git-cliff/issues/44))
+- Add `tilg:0.1.1` to dependencies
+- Add the hooks folder including the index
+- Bump next from 13.0.1 to 13.0.2 ([#48](https://github.com/orhun/git-cliff/issues/48))
+- Bump @types/react from 18.0.24 to 18.0.25 ([#47](https://github.com/orhun/git-cliff/issues/47))
+- Bump eslint from 8.26.0 to 8.27.0 ([#45](https://github.com/orhun/git-cliff/issues/45))
+
 ## [1.0.0-alpha.11] - 2022-11-01
 
 ### <!-- 08 -->Miscellaneous Tasks
