@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.0-alpha.15] - 2022-12-14
+
+### <!-- 07 -->Continuous Integrations
+
+- Bump actions/checkout from 3.1.0 to 3.2.0 ([#67](https://github.com/orhun/git-cliff/issues/67))
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump typescript from 4.9.3 to 4.9.4 ([#64](https://github.com/orhun/git-cliff/issues/64))
+- Bump @types/node from 18.11.11 to 18.11.13 ([#66](https://github.com/orhun/git-cliff/issues/66))
+- Bump @types/node from 18.11.13 to 18.11.15 ([#68](https://github.com/orhun/git-cliff/issues/68))
+
 ## [1.0.0-alpha.14] - 2022-12-06
 
 ### <!-- 08 -->Miscellaneous Tasks
