@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.0] - 2022-12-19
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump eslint-config-next from 13.0.6 to 13.0.7 ([#69](https://github.com/orhun/git-cliff/issues/69))
+- Bump next from 13.0.6 to 13.0.7 ([#70](https://github.com/orhun/git-cliff/issues/70))
+- Bump @types/node from 18.11.15 to 18.11.17 ([#71](https://github.com/orhun/git-cliff/issues/71))
+- Bump eslint from 8.29.0 to 8.30.0 ([#72](https://github.com/orhun/git-cliff/issues/72))
+
 ## [1.0.0-alpha.15] - 2022-12-14
 
 ### <!-- 07 -->Continuous Integrations
