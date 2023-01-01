@@ -1,9 +1,9 @@
+# Lil Nouns
+
 [![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/lilnouns/lilnouns-template?include_prereleases)](https://github.com/lilnouns/lilnouns-template/releases)
 [![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/lilnouns/lilnouns-template/build.yml)](https://github.com/lilnouns/lilnouns-template/actions/workflows/build.yml)
 [![GitHub](https://img.shields.io/github/license/lilnouns/lilnouns-template)](https://github.com/lilnouns/lilnouns-template/blob/master/LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/nekofar?style=flat)](https://twitter.com/nekofar)
-
-# Lil Nouns
 
 Lil Nouns are just like Nouns, but Lil!
 
