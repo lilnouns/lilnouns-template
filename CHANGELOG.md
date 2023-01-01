@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.1] - 2023-01-01
+
+### <!-- 07 -->Continuous Integrations
+
+- Skip running `pnpm` workflow on ci dependencies
+- Bump actions/cache from 3.0.11 to 3.2.0 ([#73](https://github.com/orhun/git-cliff/issues/73))
+- Setup stale bot to closes abandoned issues
+- Bump actions/cache from 3.2.0 to 3.2.2 ([#79](https://github.com/orhun/git-cliff/issues/79))
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Specifiy node version of cloudflare pages
+- Add `clsx` to dependencies
+- Bump eslint-config-next from 13.0.7 to 13.1.1 ([#75](https://github.com/orhun/git-cliff/issues/75))
+- Bump @types/react-dom from 18.0.9 to 18.0.10 ([#76](https://github.com/orhun/git-cliff/issues/76))
+- Bump @types/node from 18.11.17 to 18.11.18 ([#78](https://github.com/orhun/git-cliff/issues/78))
+- Bump next from 13.0.7 to 13.1.1 ([#77](https://github.com/orhun/git-cliff/issues/77))
+
 ## [1.0.0] - 2022-12-19
 
 ### <!-- 08 -->Miscellaneous Tasks
