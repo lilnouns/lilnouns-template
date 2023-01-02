@@ -2,7 +2,26 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.2] - 2023-01-02
+
+### <!-- 05 -->Documentation
+
+- Move header title above badges on readme
+
+### <!-- 07 -->Continuous Integrations
+
+- Add a new `release` workflow to create releases
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump eslint from 8.30.0 to 8.31.0 ([#81](https://github.com/orhun/git-cliff/issues/81))
+
 ## [1.0.1] - 2023-01-01
+
+### <!-- 05 -->Documentation
+
+- Change project license to `APLv2` ([#80](https://github.com/orhun/git-cliff/issues/80))
+- Add some status badges to the readme file
 
 ### <!-- 07 -->Continuous Integrations
 
@@ -19,6 +38,7 @@ All notable changes to this project will be documented in this file.
 - Bump @types/react-dom from 18.0.9 to 18.0.10 ([#76](https://github.com/orhun/git-cliff/issues/76))
 - Bump @types/node from 18.11.17 to 18.11.18 ([#78](https://github.com/orhun/git-cliff/issues/78))
 - Bump next from 13.0.7 to 13.1.1 ([#77](https://github.com/orhun/git-cliff/issues/77))
+- Add `@cloudflare/workers-types` to dependencies
 
 ## [1.0.0] - 2022-12-19
 
