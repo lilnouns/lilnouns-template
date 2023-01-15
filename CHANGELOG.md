@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.5] - 2023-01-15
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump next-sitemap from 3.1.22 to 3.1.45 
+- Bump wrangler from 2.0.29 to 2.7.1 
+- Bump tailwindcss from 3.1.8 to 3.2.4 
+- Bump autoprefixer from 10.4.9 to 10.4.13 
+- Bump eslint from 8.31.0 to 8.32.0 
+- Bump postcss from 8.4.16 to 8.4.21 
+- Bump next-seo from 5.5.0 to 5.15.0 
+
 ## [1.0.4] - 2023-01-15
 
 ### <!-- 07 -->Continuous Integrations
