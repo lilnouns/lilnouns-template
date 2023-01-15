@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.4] - 2023-01-15
+
+### <!-- 07 -->Continuous Integrations
+
+- Bump orhun/git-cliff-action from 2.0.1 to 2.0.3 
+- Bump actions/setup-node from 3.5.1 to 3.6.0 
+- Bump actions/cache from 3.2.2 to 3.2.3 
+- Bump actions/checkout from 3.2.0 to 3.3.0 
+- Change `open-pull-requests-limit` from 10 to 20
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Change `save-prefix` from carrot to exact version
+- Replace exact versions instead of carrot
+- Bump eslint-config-next from 13.1.1 to 13.1.2 
+- Bump next from 13.1.1 to 13.1.2 
+
 ## [1.0.3] - 2023-01-02
 
 ### <!-- 08 -->Miscellaneous Tasks
