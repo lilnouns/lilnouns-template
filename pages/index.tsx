@@ -14,10 +14,10 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico"/>
       </Head>
 
-      <main className="flex h-screen justify-center items-center">
-        <div className="m-auto">
-          <h1 className="text-3xl">Lil Nouns</h1>
-          <p className="text-xl">We are building something!</p>
+      <main className="tw-flex tw-h-screen tw-justify-center tw-items-center">
+        <div className="tw-m-auto">
+          <h1 className="tw-text-3xl">Lil Nouns</h1>
+          <p className="tw-text-xl">We are building something!</p>
         </div>
       </main>
     </>
