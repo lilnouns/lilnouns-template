@@ -8,7 +8,7 @@ specifiers:
   autoprefixer: 10.4.13
   clsx: 1.2.1
   eslint: 8.32.0
-  eslint-config-next: 13.1.2
+  eslint-config-next: 13.1.4
   incstr: 1.2.3
   mangle-css-class-webpack-plugin: 5.0.9
   next: 13.1.2
@@ -40,7 +40,7 @@ devDependencies:
   '@types/react': 18.0.27
   '@types/react-dom': 18.0.10
   eslint: 8.32.0
-  eslint-config-next: 13.1.2_7uibuqfxkfaozanbtbziikiqje
+  eslint-config-next: 13.1.4_7uibuqfxkfaozanbtbziikiqje
   incstr: 1.2.3
   mangle-css-class-webpack-plugin: 5.0.9
   typescript: 4.9.4
@@ -303,8 +303,8 @@ packages:
     resolution: {integrity: sha512-PpT4UZIX66VMTqXt4HKEJ+/PwbS+tWmmhZlazaws1a+dbUA5pPdjntQ46Jvj616i3ZKN9doS9LHx3y50RLjAWg==}
     dev: false
 
-  /@next/eslint-plugin-next/13.1.2:
-    resolution: {integrity: sha512-WGaNVvIYphdriesP6r7jq/8l7u38tzotnVQuxc1RYKLqYYApSsrebti3OCPoT3Gx0pw2smPIFHH98RzcsgW5GQ==}
+  /@next/eslint-plugin-next/13.1.4:
+    resolution: {integrity: sha512-a/T30+7Q1scom5t3L+wEBkYzCa+bhT/3DTxzxlNy4Xckw2InzcckQGeIi/larDgh5r2fSSJswhYAZEcKtuJiig==}
     dependencies:
       glob: 7.1.7
     dev: true
@@ -1297,8 +1297,8 @@ packages:
     engines: {node: '>=10'}
     dev: true
 
-  /eslint-config-next/13.1.2_7uibuqfxkfaozanbtbziikiqje:
-    resolution: {integrity: sha512-zdRAQOr8v69ZwJRtBrGqAqm160ONqKxU/pV1FB1KlgfyqveGsLZmlQ7l31otwtw763901J7xdiTVkj2y3YxXZA==}
+  /eslint-config-next/13.1.4_7uibuqfxkfaozanbtbziikiqje:
+    resolution: {integrity: sha512-r7n9V4/kkiDDVFfBwI3tviGUV/jUzGI0lY3JefxceYaU18gdk2kMgNPyhHobowu1+yHZpZi8iEzRtzeTrtGRLg==}
     peerDependencies:
       eslint: ^7.23.0 || ^8.0.0
       typescript: '>=3.3.1'
@@ -1306,7 +1306,7 @@ packages:
       typescript:
         optional: true
     dependencies:
-      '@next/eslint-plugin-next': 13.1.2
+      '@next/eslint-plugin-next': 13.1.4
       '@rushstack/eslint-patch': 1.2.0
       '@typescript-eslint/parser': 5.48.1_7uibuqfxkfaozanbtbziikiqje
       eslint: 8.32.0
