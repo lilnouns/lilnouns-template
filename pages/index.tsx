@@ -1,6 +1,6 @@
 import type {NextPage} from "next";
 import Head from "next/head";
-import {useIsMounted} from "../hooks";
+import {useIsMounted} from "@/hooks";
 
 const Home: NextPage = () => {
   const isMounted = useIsMounted()
