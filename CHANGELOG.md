@@ -2,6 +2,39 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.2] - 2023-02-01
+
+### <!-- 01 -->Features
+
+- Configure `@` as import alias
+
+### <!-- 04 -->Refactor
+
+- Replace import alias on relative import paths
+
+### <!-- 05 -->Documentation
+
+- Add basic guidelines to contributing to the repository
+- Update twitter badge due to depreciation
+
+### <!-- 07 -->Continuous Integrations
+
+- Bump actions/cache from 3.2.3 to 3.2.4 
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump next from 13.1.2 to 13.1.4 
+- Bump eslint-config-next from 13.1.2 to 13.1.4 
+- Bump wrangler from 2.8.0 to 2.8.1 
+- Bump next from 13.1.4 to 13.1.5 
+- Bump @cloudflare/workers-types from 4.20221111.1 to 4.20230115.0 
+- Bump next from 13.1.4 to 13.1.6 
+- Bump eslint-config-next from 13.1.4 to 13.1.6 
+- Bump wrangler from 2.8.1 to 2.9.0 
+- Bump eslint from 8.32.0 to 8.33.0 
+- Bump typescript from 4.9.4 to 4.9.5 
+- Bump next-sitemap from 3.1.45 to 3.1.49 
+
 ## [1.1.1] - 2023-01-22
 
 ### <!-- 02 -->Bug Fixes
