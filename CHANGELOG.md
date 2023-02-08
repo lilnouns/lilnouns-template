@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.3] - 2023-02-08
+
+### <!-- 06 -->Build Environment
+
+- Disable mangling class names logs on production
+- Improve `classNameRegExp` for `tailwind` class names
+
+### <!-- 07 -->Continuous Integrations
+
+- Solve some issue related to run `release` workflow
+- Bump orhun/git-cliff-action from 2.0.3 to 2.0.5 
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump @types/node from 18.11.18 to 18.11.19 
+
 ## [1.1.2] - 2023-02-01
 
 ### <!-- 01 -->Features
