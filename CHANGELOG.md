@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.4] - 2023-02-15
+
+### <!-- 07 -->Continuous Integrations
+
+- Bump actions/cache from 3.2.4 to 3.2.5 
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump wrangler from 2.9.0 to 2.9.1 
+- Bump next-sitemap from 3.1.49 to 3.1.50 
+- Bump @types/node from 18.11.19 to 18.13.0 
+- Add `@next/font` to dependencies
+- Bump tailwindcss from 3.2.4 to 3.2.6 
+- Bump next-sitemap from 3.1.50 to 3.1.52 
+- Bump eslint from 8.33.0 to 8.34.0 
+- Bump @types/react from 18.0.27 to 18.0.28 
+- Bump @cloudflare/workers-types from 4.20230115.0 to 4.20230214.0 
+
 ## [1.1.3] - 2023-02-08
 
 ### <!-- 06 -->Build Environment
