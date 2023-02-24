@@ -2,7 +2,7 @@ lockfileVersion: 5.4
 
 specifiers:
   '@cloudflare/workers-types': 4.20230221.0
-  '@next/font': 13.1.6
+  '@next/font': 13.2.1
   '@types/node': 18.13.0
   '@types/react': 18.0.28
   '@types/react-dom': 18.0.11
@@ -24,7 +24,7 @@ specifiers:
   wrangler: 2.10.0
 
 dependencies:
-  '@next/font': 13.1.6
+  '@next/font': 13.2.1
   autoprefixer: 10.4.13_postcss@8.4.21
   clsx: 1.2.1
   next: 13.1.6_biqbaboplfbrettd7655fr4n2y
@@ -509,8 +509,8 @@ packages:
       glob: 7.1.7
     dev: true
 
-  /@next/font/13.1.6:
-    resolution: {integrity: sha512-AITjmeb1RgX1HKMCiA39ztx2mxeAyxl4ljv2UoSBUGAbFFMg8MO7YAvjHCgFhD39hL7YTbFjol04e/BPBH5RzQ==}
+  /@next/font/13.2.1:
+    resolution: {integrity: sha512-4sergLt7xp9+mZuKME/xM4tLlHGTcmL7naCq0qCTcAlof6NnttshYgiLOdhSiy0NcI+/yM3BjvdEk++O96UzTg==}
     dev: false
 
   /@next/swc-android-arm-eabi/13.1.6:
