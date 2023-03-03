@@ -3,7 +3,7 @@ lockfileVersion: 5.4
 specifiers:
   '@cloudflare/workers-types': 4.20230228.0
   '@next/font': 13.2.3
-  '@types/node': 18.14.3
+  '@types/node': 18.14.4
   '@types/react': 18.0.28
   '@types/react-dom': 18.0.11
   autoprefixer: 10.4.13
@@ -14,7 +14,7 @@ specifiers:
   mangle-css-class-webpack-plugin: 5.0.9
   next: 13.2.3
   next-seo: 5.15.0
-  next-sitemap: 3.1.52
+  next-sitemap: 3.1.55
   postcss: 8.4.21
   react: 18.2.0
   react-dom: 18.2.0
@@ -29,7 +29,7 @@ dependencies:
   clsx: 1.2.1
   next: 13.2.3_biqbaboplfbrettd7655fr4n2y
   next-seo: 5.15.0_nvzgbose6yf6w7ijjprgspqefi
-  next-sitemap: 3.1.52_xeg3tdra7hobsncwzvo3da7vxi
+  next-sitemap: 3.1.55_xeg3tdra7hobsncwzvo3da7vxi
   postcss: 8.4.21
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
@@ -38,7 +38,7 @@ dependencies:
 
 devDependencies:
   '@cloudflare/workers-types': 4.20230228.0
-  '@types/node': 18.14.3
+  '@types/node': 18.14.4
   '@types/react': 18.0.28
   '@types/react-dom': 18.0.11
   eslint: 8.35.0
@@ -678,15 +678,15 @@ packages:
   /@types/better-sqlite3/7.6.3:
     resolution: {integrity: sha512-YS64N9SNDT/NAvou3QNdzAu3E2om/W/0dhORimtPGLef+zSK5l1vDzfsWb4xgXOgfhtOI5ZDTRxnvRPb22AIVQ==}
     dependencies:
-      '@types/node': 18.14.3
+      '@types/node': 18.14.4
     dev: true
 
   /@types/json5/0.0.29:
     resolution: {integrity: sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ==}
     dev: true
 
-  /@types/node/18.14.3:
-    resolution: {integrity: sha512-1y36CC5iL5CMyKALzwX9cwwxcWIxvIBe3gzs4GrXWXEQ8klQnCZ2U/WDGiNrXHmQcUhnaun17XG9TEIDlGj2RA==}
+  /@types/node/18.14.4:
+    resolution: {integrity: sha512-VhCw7I7qO2X49+jaKcAUwi3rR+hbxT5VcYF493+Z5kMLI0DL568b7JI4IDJaxWFH0D/xwmGJNoXisyX+w7GH/g==}
     dev: true
 
   /@types/prop-types/15.7.5:
@@ -2323,8 +2323,8 @@ packages:
       react-dom: 18.2.0_react@18.2.0
     dev: false
 
-  /next-sitemap/3.1.52_xeg3tdra7hobsncwzvo3da7vxi:
-    resolution: {integrity: sha512-tY469i4QRV1PwM9BoL+HdKYBCJ83IQl3PmUNapG/Hxp0MIYIw1hINU8E+Edf5Kr8vHXfVzPqDoul/Abu2P0vkw==}
+  /next-sitemap/3.1.55_xeg3tdra7hobsncwzvo3da7vxi:
+    resolution: {integrity: sha512-ZjkRfkqoSLbU+e8W9TWWe0zfOGNA47lpvm35kNcUCmj73gpLX2PIn51gwHT/B6bgGVAFYY0OXixJDrxIIwcEHw==}
     engines: {node: '>=14.18'}
     hasBin: true
     peerDependencies:
