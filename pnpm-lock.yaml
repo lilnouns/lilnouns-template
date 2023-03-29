@@ -14,14 +14,14 @@ specifiers:
   mangle-css-class-webpack-plugin: 5.0.9
   next: 13.2.3
   next-seo: 5.15.0
-  next-sitemap: 3.1.52
+  next-sitemap: 3.1.55
   postcss: 8.4.21
   react: 18.2.0
   react-dom: 18.2.0
   tailwindcss: 3.2.7
   tilg: 0.1.1
   typescript: 4.9.5
-  wrangler: 2.12.0
+  wrangler: 2.12.1
 
 dependencies:
   '@next/font': 13.2.3
@@ -29,7 +29,7 @@ dependencies:
   clsx: 1.2.1
   next: 13.2.3_biqbaboplfbrettd7655fr4n2y
   next-seo: 5.15.0_nvzgbose6yf6w7ijjprgspqefi
-  next-sitemap: 3.1.52_xeg3tdra7hobsncwzvo3da7vxi
+  next-sitemap: 3.1.55_xeg3tdra7hobsncwzvo3da7vxi
   postcss: 8.4.21
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
@@ -46,7 +46,7 @@ devDependencies:
   incstr: 1.2.3
   mangle-css-class-webpack-plugin: 5.0.9
   typescript: 4.9.5
-  wrangler: 2.12.0
+  wrangler: 2.12.1
 
 packages:
 
@@ -2323,8 +2323,8 @@ packages:
       react-dom: 18.2.0_react@18.2.0
     dev: false
 
-  /next-sitemap/3.1.52_xeg3tdra7hobsncwzvo3da7vxi:
-    resolution: {integrity: sha512-tY469i4QRV1PwM9BoL+HdKYBCJ83IQl3PmUNapG/Hxp0MIYIw1hINU8E+Edf5Kr8vHXfVzPqDoul/Abu2P0vkw==}
+  /next-sitemap/3.1.55_xeg3tdra7hobsncwzvo3da7vxi:
+    resolution: {integrity: sha512-ZjkRfkqoSLbU+e8W9TWWe0zfOGNA47lpvm35kNcUCmj73gpLX2PIn51gwHT/B6bgGVAFYY0OXixJDrxIIwcEHw==}
     engines: {node: '>=14.18'}
     hasBin: true
     peerDependencies:
@@ -3222,8 +3222,8 @@ packages:
     engines: {node: '>=0.10.0'}
     dev: true
 
-  /wrangler/2.12.0:
-    resolution: {integrity: sha512-yAqv3JbJqkB1oaciI2CGEiEscQ98BXaFN+Z7VbWuepMqVL2UV2wUjA2mJLjWuoZOwSmC74MsDzZ+5hzDs/2Nkg==}
+  /wrangler/2.12.1:
+    resolution: {integrity: sha512-u0GNyPRc6oabd7dQf8BSj1ztJtDlvvHJMVTuCuFDUFbQQKCDXmCnlLk/ZzPE0sfBsMH9LdyMqx4inRiJt6LbjQ==}
     engines: {node: '>=16.13.0'}
     hasBin: true
     dependencies:
