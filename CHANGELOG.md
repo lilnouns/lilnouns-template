@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.6] - 2023-03-29
+
+### <!-- 07 -->Continuous Integrations
+
+- Bump actions/cache from 3.2.6 to 3.3.1 
+- Bump actions/checkout from 3.3.0 to 3.5.0 
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump wrangler from 2.12.0 to 2.12.1 
+- Bump eslint-config-next from 13.2.3 to 13.2.4 
+
 ## [1.1.5] - 2023-03-02
 
 ### <!-- 07 -->Continuous Integrations
