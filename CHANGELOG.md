@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.7] - 2023-03-30
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump autoprefixer from 10.4.13 to 10.4.14 
+- Bump next from 13.2.3 to 13.2.4 
+- Bump typescript from 4.9.5 to 5.0.2 
+- Bump @types/react from 18.0.28 to 18.0.31 
+
 ## [1.1.6] - 2023-03-29
 
 ### <!-- 07 -->Continuous Integrations
