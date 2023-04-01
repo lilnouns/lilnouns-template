@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.9] - 2023-04-01
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump typescript from 5.0.2 to 5.0.3 
+- Bump tailwindcss from 3.2.7 to 3.3.1 
+- Bump eslint from 8.35.0 to 8.37.0 
+- Bump @cloudflare/workers-types from 4.20230228.0 to 4.20230321.0 
+- Bump next-sitemap from 3.1.55 to 4.0.6 
+- Bump wrangler from 2.12.0 to 2.13.0 
+- Bump @types/node from 18.14.3 to 18.15.11 
+- Bump @next/font from 13.2.3 to 13.2.4 
+
 ## [1.1.8] - 2023-03-30
 
 ### <!-- 02 -->Bug Fixes
