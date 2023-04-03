@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.10] - 2023-04-03
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump next-seo from 5.15.0 to 6.0.0 
+- Bump @types/react from 18.0.31 to 18.0.32 
+
 ## [1.1.9] - 2023-04-01
 
 ### <!-- 08 -->Miscellaneous Tasks

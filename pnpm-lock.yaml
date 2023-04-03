@@ -2,9 +2,9 @@ lockfileVersion: 5.4
 
 specifiers:
   '@cloudflare/workers-types': 4.20230321.0
-  '@next/font': 13.2.3
+  '@next/font': 13.2.4
   '@types/node': 18.15.11
-  '@types/react': 18.0.31
+  '@types/react': 18.0.32
   '@types/react-dom': 18.0.11
   autoprefixer: 10.4.14
   clsx: 1.2.1
@@ -13,7 +13,7 @@ specifiers:
   incstr: 1.2.3
   mangle-css-class-webpack-plugin: 5.0.9
   next: 13.2.4
-  next-seo: 5.15.0
+  next-seo: 6.0.0
   next-sitemap: 4.0.6
   postcss: 8.4.21
   react: 18.2.0
@@ -24,11 +24,11 @@ specifiers:
   wrangler: 2.13.0
 
 dependencies:
-  '@next/font': 13.2.3
+  '@next/font': 13.2.4
   autoprefixer: 10.4.14_postcss@8.4.21
   clsx: 1.2.1
   next: 13.2.4_biqbaboplfbrettd7655fr4n2y
-  next-seo: 5.15.0_ld2jel3hspngo3u5lti2kgl2sq
+  next-seo: 6.0.0_ld2jel3hspngo3u5lti2kgl2sq
   next-sitemap: 4.0.6_jccvrrmb7rb3yyi3af3znueaea
   postcss: 8.4.21
   react: 18.2.0
@@ -39,7 +39,7 @@ dependencies:
 devDependencies:
   '@cloudflare/workers-types': 4.20230321.0
   '@types/node': 18.15.11
-  '@types/react': 18.0.31
+  '@types/react': 18.0.32
   '@types/react-dom': 18.0.11
   eslint: 8.37.0
   eslint-config-next: 13.2.4_vwh6htx42aidho2qgfca5u5rwm
@@ -529,8 +529,8 @@ packages:
       glob: 7.1.7
     dev: true
 
-  /@next/font/13.2.3:
-    resolution: {integrity: sha512-7EHzk0f7FVYICLUZTpyPk93IfcTUao++Xt1Sgb+Zk5dVOCYHabqLtlF5ywSoXIqyFlo0qlshEBxsrzHAGTWkDw==}
+  /@next/font/13.2.4:
+    resolution: {integrity: sha512-lMAnuOYjv5g22WhD00u0DQ9u2rTMJH0S64PKE4Sy8Y2q+FJTYs6ZHT2z3VRoI8+AOWSLK4FirpnygcjOienQ9A==}
     dev: false
 
   /@next/swc-android-arm-eabi/13.2.4:
@@ -711,11 +711,11 @@ packages:
   /@types/react-dom/18.0.11:
     resolution: {integrity: sha512-O38bPbI2CWtgw/OoQoY+BRelw7uysmXbWvw3nLWO21H1HSh+GOlqPuXshJfjmpNlKiiSDG9cc1JZAaMmVdcTlw==}
     dependencies:
-      '@types/react': 18.0.31
+      '@types/react': 18.0.32
     dev: true
 
-  /@types/react/18.0.31:
-    resolution: {integrity: sha512-EEG67of7DsvRDU6BLLI0p+k1GojDLz9+lZsnCpCRTa/lOokvyPBvp8S5x+A24hME3yyQuIipcP70KJ6H7Qupww==}
+  /@types/react/18.0.32:
+    resolution: {integrity: sha512-gYGXdtPQ9Cj0w2Fwqg5/ak6BcK3Z15YgjSqtyDizWUfx7mQ8drs0NBUzRRsAdoFVTO8kJ8L2TL8Skm7OFPnLUw==}
     dependencies:
       '@types/prop-types': 15.7.5
       '@types/scheduler': 0.16.2
@@ -2312,8 +2312,8 @@ packages:
     resolution: {integrity: sha512-OWND8ei3VtNC9h7V60qff3SVobHr996CTwgxubgyQYEpg290h9J0buyECNNJexkFm5sOajh5G116RYA1c8ZMSw==}
     dev: true
 
-  /next-seo/5.15.0_ld2jel3hspngo3u5lti2kgl2sq:
-    resolution: {integrity: sha512-LGbcY91yDKGMb7YI+28n3g+RuChUkt6pXNpa8FkfKkEmNiJkeRDEXTnnjVtwT9FmMhG6NH8qwHTelGrlYm9rgg==}
+  /next-seo/6.0.0_ld2jel3hspngo3u5lti2kgl2sq:
+    resolution: {integrity: sha512-jKKt1p1z4otMA28AyeoAONixVjdYmgFCWwpEFtu+DwRHQDllVX3RjtyXbuCQiUZEfQ9rFPBpAI90vDeLZlMBdg==}
     peerDependencies:
       next: ^8.1.1-canary.54 || >=9.0.0
       react: '>=16.0.0'
