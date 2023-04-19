@@ -2,6 +2,31 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.11] - 2023-04-19
+
+### <!-- 07 -->Continuous Integrations
+
+- Bump actions/checkout from 3.5.0 to 3.5.2 
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump @types/react from 18.0.32 to 18.0.33 
+- Bump wrangler from 2.13.0 to 2.14.0 
+- Bump @cloudflare/workers-types from 4.20230321.0 to 4.20230404.0 
+- Bump @next/font from 13.2.4 to 13.3.0 
+- Bump eslint-config-next from 13.2.4 to 13.3.0 
+- Bump next from 13.2.4 to 13.3.0 
+- Bump next-sitemap from 4.0.6 to 4.0.7 
+- Bump @types/react from 18.0.33 to 18.0.34 
+- Bump wrangler from 2.14.0 to 2.15.0 
+- Bump eslint from 8.37.0 to 8.38.0 
+- Bump typescript from 5.0.3 to 5.0.4 
+- Bump @types/react from 18.0.33 to 18.0.35 
+- Bump wrangler from 2.15.0 to 2.15.1 
+- Bump postcss from 8.4.21 to 8.4.22 
+- Bump wrangler from 2.15.1 to 2.16.0 
+- Bump @types/react from 18.0.35 to 18.0.37 
+
 ## [1.1.10] - 2023-04-03
 
 ### <!-- 08 -->Miscellaneous Tasks
