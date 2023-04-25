@@ -2,6 +2,28 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.12] - 2023-04-25
+
+### <!-- 05 -->Documentation
+
+- Migrate to new github issue templates
+
+### <!-- 07 -->Continuous Integrations
+
+- Bump `pnpm` version from 7 to 8 on `pnpm` workflow
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump @types/node from 18.15.11 to 18.15.12 
+- Bump postcss from 8.4.22 to 8.4.23 
+- Bump eslint-config-next from 13.3.0 to 13.3.1 
+- Bump @types/node from 18.15.12 to 18.16.0 
+- Bump next from 13.3.0 to 13.3.1 
+- Bump @types/react from 18.0.37 to 18.0.38 
+- Bump @next/font from 13.3.0 to 13.3.1 
+- Bump eslint from 8.38.0 to 8.39.0 
+- Bump wrangler from 2.16.0 to 2.17.0 
+
 ## [1.1.11] - 2023-04-19
 
 ### <!-- 07 -->Continuous Integrations
