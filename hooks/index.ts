@@ -1,1 +1,1 @@
-export {useIsMounted} from '@/hooks/use-is-mounted'
+export { useIsMounted } from '@/hooks/use-is-mounted'
