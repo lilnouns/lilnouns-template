@@ -2,8 +2,8 @@ lockfileVersion: '6.0'
 
 dependencies:
   '@next/font':
-    specifier: 13.4.1
-    version: 13.4.1
+    specifier: 13.4.2
+    version: 13.4.2
   autoprefixer:
     specifier: 10.4.14
     version: 10.4.14(postcss@8.4.23)
@@ -599,8 +599,8 @@ packages:
       glob: 7.1.7
     dev: true
 
-  /@next/font@13.4.1:
-    resolution: {integrity: sha512-GIgdVNXhWgGq92NUSGVd4n2yiF1k0i6U3dt/Pa9SFJvOEJyAJ99khXVq6cYJYJS8jhbL0yjE8+th8h+KjIGzuA==}
+  /@next/font@13.4.2:
+    resolution: {integrity: sha512-II7hThMnn7Hf2xCGBB8DLD+QLScZVCNr6775l/aQVqeN3x89Yw/r3l5UHZ7PSOfQAMxoYuwm8t/wW0I/yYd/GQ==}
     dev: false
 
   /@next/swc-darwin-arm64@13.4.2:
