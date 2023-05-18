@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.14] - 2023-05-18
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump @types/node from 20.1.1 to 20.1.2 
+- Bump eslint-config-next from 13.4.1 to 13.4.2 
+- Bump next from 13.4.1 to 13.4.2 
+- Bump @next/font from 13.4.1 to 13.4.2 
+- Bump @types/node from 20.1.2 to 20.1.3 
+- Bump @cloudflare/workers-types from 4.20230419.0 to 4.20230511.0 
+- Bump @types/node from 20.1.3 to 20.1.4 
+- Bump prettier-plugin-tailwindcss from 0.2.8 to 0.3.0 
+- Bump @types/node from 20.1.4 to 20.1.7 
+- Bump wrangler from 2.20.0 to 3.0.0 
+- Bump @types/node from 20.1.7 to 20.2.0 
+
 ## [1.1.13] - 2023-05-10
 
 ### <!-- 07 -->Continuous Integrations
