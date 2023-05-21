@@ -2,12 +2,19 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.16] - 2023-05-21
+
+### <!-- 07 -->Continuous Integrations
+
+- Solve some issues over `build` workflow
+
 ## [1.1.15] - 2023-05-21
 
 ### <!-- 08 -->Miscellaneous Tasks
 
 - Bump next-sitemap from 4.0.9 to 4.1.3 
 - Bump @types/node from 20.2.0 to 20.2.1 
+- Drop support for node version 17 and earlier
 - Drop support for node version 17 and earlier
 
 ## [1.1.14] - 2023-05-18
