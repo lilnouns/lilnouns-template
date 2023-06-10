@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.18] - 2023-06-10
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump postcss from 8.4.23 to 8.4.24 
+- Bump @types/node from 20.2.4 to 20.2.5 
+- Bump pnpm from 8.5.1 to 8.6.0 
+- Bump @types/react from 18.2.7 to 18.2.8 
+- Bump typescript from 5.0.4 to 5.1.3 
+- Bump eslint from 8.41.0 to 8.42.0 
+- Bump pnpm from 8.6.0 to 8.6.1 
+- Bump wrangler from 3.0.1 to 3.1.0 
+- Bump @types/react from 18.2.8 to 18.2.9 
+
 ## [1.1.17] - 2023-05-26
 
 ### <!-- 08 -->Miscellaneous Tasks
