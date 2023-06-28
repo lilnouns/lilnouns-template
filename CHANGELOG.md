@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.21] - 2023-06-28
+
+### <!-- 05 -->Documentation
+
+- Set sponsorships configuration for github
+
 ## [1.1.20] - 2023-06-28
 
 ### <!-- 05 -->Documentation
