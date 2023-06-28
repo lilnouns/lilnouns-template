@@ -2,6 +2,30 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.20] - 2023-06-28
+
+### <!-- 05 -->Documentation
+
+- Add funding to the packge configs
+- Add crypto donate badge to the project readme
+
+### <!-- 07 -->Continuous Integrations
+
+- Change `package-ecosystem` back to `npm` on Dependabot configs
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump eslint from 8.42.0 to 8.43.0 
+- Bump next from 13.4.4 to 13.4.7 
+- Bump @next/font from 13.4.4 to 13.4.7 
+- Bump @types/react-dom from 18.2.4 to 18.2.6 
+- Bump next-seo from 6.0.0 to 6.1.0 
+- Bump @types/react from 18.2.9 to 18.2.14 
+- Bump pnpm from 8.6.1 to 8.6.4 
+- Bump wrangler from 3.1.0 to 3.1.1 
+- Bump @types/node from 20.2.5 to 20.3.1 
+- Bump eslint-config-next from 13.4.4 to 13.4.7 
+
 ## [1.1.19] - 2023-06-24
 
 ### <!-- 07 -->Continuous Integrations

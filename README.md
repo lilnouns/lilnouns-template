@@ -4,6 +4,8 @@
 [![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/lilnouns/lilnouns-template/build.yml)](https://github.com/lilnouns/lilnouns-template/actions/workflows/build.yml)
 [![GitHub](https://img.shields.io/github/license/lilnouns/lilnouns-template)](https://github.com/lilnouns/lilnouns-template/blob/master/LICENSE)
 [![Twitter Follow](https://img.shields.io/badge/follow-%40nekofar-1DA1F2?logo=twitter&style=flat)](https://twitter.com/nekofar)
+[![Donate](https://img.shields.io/badge/donate-nekofar.crypto-a2b9bc?logo=ko-fi&logoColor=white)](https://ud.me/nekofar.crypto)
+
 
 Lil Nouns are just like Nouns, but Lil!
 
