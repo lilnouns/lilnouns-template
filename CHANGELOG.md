@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.22] - 2023-07-04
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump pnpm from 8.6.4 to 8.6.5 
+- Bump typescript from 5.1.3 to 5.1.5 
+- Bump typescript from 5.1.5 to 5.1.6 
+- Bump @types/node from 20.3.1 to 20.3.2 
+- Bump next-sitemap from 4.1.3 to 4.1.8 
+- Bump @types/node from 20.3.2 to 20.3.3 
+- Bump eslint from 8.43.0 to 8.44.0 
+- Bump eslint-config-next from 13.4.7 to 13.4.8 
+- Bump @next/font from 13.4.7 to 13.4.8 
+- Bump next from 13.4.7 to 13.4.8 
+- Bump pnpm from 8.6.5 to 8.6.6 
+
 ## [1.1.21] - 2023-06-28
 
 ### <!-- 05 -->Documentation
