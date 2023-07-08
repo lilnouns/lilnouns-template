@@ -14,9 +14,7 @@ Lil Nouns are just like Nouns, but Lil!
 First, run the development server:
 
 ```bash
-npm run dev
-# or
-pnpm run dev
+pnpm turbo dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
