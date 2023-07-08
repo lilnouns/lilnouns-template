@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.24] - 2023-07-08
+
+### <!-- 05 -->Documentation
+
+- Update development server command in README.md
+
+### <!-- 07 -->Continuous Integrations
+
+- Add trigger for feature branches on `build` workflow
+- Update build workflow to use `turbo`
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Update package.json with turbo dependency
+- Add turbo.json configuration file
+- Ignore `.turbo` in the gitignore file
+
 ## [1.1.23] - 2023-07-08
 
 ### <!-- 07 -->Continuous Integrations

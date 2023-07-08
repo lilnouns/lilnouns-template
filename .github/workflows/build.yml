@@ -7,6 +7,7 @@ on:
       - develop
       - bugfix/*
       - hotfix/*
+      - feature/*
       - release/*
     paths-ignore:
       - "**/*.md"
@@ -55,7 +56,7 @@ jobs:
         run: pnpm install --frozen-lockfile
 
       - name: Build & export the app
-        run: pnpm run build
+        run: pnpm turbo run build
         env:
           NEXT_PUBLIC_SITE_URL: ${{ secrets.NEXT_PUBLIC_SITE_URL  }}
 
