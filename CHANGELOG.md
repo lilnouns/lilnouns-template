@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.23] - 2023-07-08
+
+### <!-- 07 -->Continuous Integrations
+
+- Bump actions/setup-node from 3.6.0 to 3.7.0 
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump next from 13.4.8 to 13.4.9 
+- Bump prettier from 2.8.8 to 3.0.0 
+- Bump @cloudflare/workers-types 
+- Bump postcss from 8.4.24 to 8.4.25 
+- Bump @next/font from 13.4.8 to 13.4.9 
+- Bump eslint-config-next from 13.4.8 to 13.4.9 
+- Bump wrangler from 3.1.1 to 3.1.2 
+- Bump @types/node from 20.3.3 to 20.4.1 
+
 ## [1.1.22] - 2023-07-04
 
 ### <!-- 08 -->Miscellaneous Tasks
