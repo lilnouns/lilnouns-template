@@ -71,14 +71,14 @@ devDependencies:
     specifier: 8.6.7
     version: 8.6.7
   prettier:
-    specifier: 3.0.0
-    version: 3.0.0
+    specifier: 3.0.3
+    version: 3.0.3
   prettier-plugin-organize-imports:
     specifier: 3.2.2
-    version: 3.2.2(prettier@3.0.0)(typescript@5.2.2)
+    version: 3.2.2(prettier@3.0.3)(typescript@5.2.2)
   prettier-plugin-tailwindcss:
     specifier: 0.4.0
-    version: 0.4.0(prettier-plugin-organize-imports@3.2.2)(prettier@3.0.0)
+    version: 0.4.0(prettier-plugin-organize-imports@3.2.2)(prettier@3.0.3)
   turbo:
     specifier: 1.10.7
     version: 1.10.7
@@ -2740,7 +2740,7 @@ packages:
     engines: {node: '>= 0.8.0'}
     dev: true
 
-  /prettier-plugin-organize-imports@3.2.2(prettier@3.0.0)(typescript@5.2.2):
+  /prettier-plugin-organize-imports@3.2.2(prettier@3.0.3)(typescript@5.2.2):
     resolution: {integrity: sha512-e97lE6odGSiHonHJMTYC0q0iLXQyw0u5z/PJpvP/3vRy6/Zi9kLBwFAbEGjDzIowpjQv8b+J04PDamoUSQbzGA==}
     peerDependencies:
       '@volar/vue-language-plugin-pug': ^1.0.4
@@ -2753,11 +2753,11 @@ packages:
       '@volar/vue-typescript':
         optional: true
     dependencies:
-      prettier: 3.0.0
+      prettier: 3.0.3
       typescript: 5.2.2
     dev: true
 
-  /prettier-plugin-tailwindcss@0.4.0(prettier-plugin-organize-imports@3.2.2)(prettier@3.0.0):
+  /prettier-plugin-tailwindcss@0.4.0(prettier-plugin-organize-imports@3.2.2)(prettier@3.0.3):
     resolution: {integrity: sha512-Rna0sDPETA0KNhMHlN8wxKNgfSa8mTl2hPPAGxnbv6tUcHT6J4RQmQ8TLXyhB7Dm5Von4iHloBxTyClYM6wT0A==}
     engines: {node: '>=12.17.0'}
     peerDependencies:
@@ -2809,12 +2809,12 @@ packages:
       prettier-plugin-twig-melody:
         optional: true
     dependencies:
-      prettier: 3.0.0
-      prettier-plugin-organize-imports: 3.2.2(prettier@3.0.0)(typescript@5.2.2)
+      prettier: 3.0.3
+      prettier-plugin-organize-imports: 3.2.2(prettier@3.0.3)(typescript@5.2.2)
     dev: true
 
-  /prettier@3.0.0:
-    resolution: {integrity: sha512-zBf5eHpwHOGPC47h0zrPyNn+eAEIdEzfywMoYn2XPi0P44Zp0tSq64rq0xAREh4auw2cJZHo9QUob+NqCQky4g==}
+  /prettier@3.0.3:
+    resolution: {integrity: sha512-L/4pUDMxcNa8R/EthV08Zt42WBO4h1rarVtK0K+QJG0X187OLo7l699jWw0GKuwzkPQ//jMFA/8Xm6Fh3J/DAg==}
     engines: {node: '>=14'}
     hasBin: true
     dev: true
