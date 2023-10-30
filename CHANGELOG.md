@@ -2,6 +2,39 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.25] - 2023-10-30
+
+### <!-- 07 -->Continuous Integrations
+
+- Bump actions/setup-node from 3.7.0 to 3.8.1 
+- Bump actions/checkout from 3.5.3 to 4.1.0 
+- Bump pnpm/action-setup from 2.2.4 to 2.4.0 
+- Bump actions/cache from 3.3.1 to 3.3.2 
+- Bump orhun/git-cliff-action from 2.0.6 to 2.1.1 
+- Bump actions/setup-node from 3.8.1 to 4.0.0 
+- Bump actions/checkout from 4.1.0 to 4.1.1 
+
+### <!-- 08 -->Miscellaneous Tasks
+
+- Bump pnpm from 8.6.6 to 8.6.7 
+- Bump @cloudflare/workers-types 
+- Bump wrangler from 3.1.2 to 3.2.0 
+- Bump prettier-plugin-tailwindcss from 0.3.0 to 0.4.0 
+- Bump next-sitemap from 4.1.8 to 4.2.3 
+- Bump typescript from 5.1.6 to 5.2.2 
+- Bump mangle-css-class-webpack-plugin 
+- Bump clsx from 1.2.1 to 2.0.0 
+- Bump prettier from 3.0.0 to 3.0.3 
+- Bump postcss from 8.4.25 to 8.4.31 
+- Bump eslint-config-prettier from 8.8.0 to 9.0.0 
+- Bump wrangler from 3.2.0 to 3.15.0 
+- Bump @types/react from 18.2.14 to 18.2.33 
+- Bump tailwindcss from 3.3.2 to 3.3.5 
+- Bump eslint from 8.44.0 to 8.52.0 
+- Bump @types/node from 20.4.1 to 20.8.9 
+- Bump prettier-plugin-tailwindcss from 0.4.0 to 0.5.6 
+- Bump @types/react-dom from 18.2.6 to 18.2.14 
+
 ## [1.1.24] - 2023-07-08
 
 ### <!-- 05 -->Documentation
