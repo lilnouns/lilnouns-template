@@ -34,7 +34,7 @@
     "eslint-config-next": "13.4.9",
     "eslint-config-prettier": "8.8.0",
     "incstr": "1.2.3",
-    "mangle-css-class-webpack-plugin": "5.0.9",
+    "mangle-css-class-webpack-plugin": "5.1.0",
     "pnpm": "8.6.7",
     "prettier": "3.0.0",
     "prettier-plugin-organize-imports": "3.2.2",
