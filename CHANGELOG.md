@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.27] - 2023-10-31
+
+### Miscellaneous Tasks
+
+- Migrate from google fonts to local fonts (#374)
+
+## [1.1.26] - 2023-10-30
+
+### Bug Fixes
+
+- Solve some minor issues and update dependencies
+
 ## [1.1.24] - 2023-07-08
 
 ### Documentation
