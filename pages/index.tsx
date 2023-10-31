@@ -1,14 +1,8 @@
 import { useIsMounted } from '@/hooks'
-import { Londrina_Solid } from '@next/font/google'
 import clsx from 'clsx'
 import type { NextPage } from 'next'
 import Head from 'next/head'
-
-const londrinaSolid = Londrina_Solid({
-  subsets: ['latin'],
-  variable: '--font-londrina-solid',
-  weight: ['100', '300', '400', '900'],
-})
+import {londrinaSolid} from "@/styles/fonts";
 
 const Home: NextPage = () => {
   const isMounted = useIsMounted()

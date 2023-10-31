@@ -11,7 +11,9 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['var(--font-londrina-solid)', ...fontFamily.sans],
+        ...fontFamily,
+        'londrina-solid': ['var(--font-londrina-solid)'],
+        'pt-root-ui': ['var(--font-pt-root-ui)'],
       },
     },
   },
