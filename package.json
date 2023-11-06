@@ -8,6 +8,7 @@
     "prestart": "pnpm run build",
     "start": "wrangler pages dev out",
     "lint": "next lint",
+    "types": "pnpx typesync || :",
     "prepare": "husky install"
   },
   "dependencies": {
