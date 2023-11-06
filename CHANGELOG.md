@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.31] - 2023-11-06
+
+### Refactor
+
+- Add utility files to handle locale and style merge
+- Add tests and localization functionality for Home page.
+- Move home page to dynamic route for localization support
+
+### Miscellaneous Tasks
+
+- Add translation template files for multiple languages
+
 ## [1.1.30] - 2023-11-06
 
 ### Bug Fixes
