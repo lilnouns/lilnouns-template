@@ -12,6 +12,9 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   webpack: (config, {dev, isServer}) => {
+  images: {
+    unoptimized: true,
+  },
 
     if (!dev) {
       const MangleCssClassPlugin = require('mangle-css-class-webpack-plugin');
