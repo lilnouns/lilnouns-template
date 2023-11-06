@@ -20,6 +20,9 @@ dependencies:
   clsx:
     specifier: 2.0.0
     version: 2.0.0
+  langs:
+    specifier: 2.0.0
+    version: 2.0.0
   next:
     specifier: 14.0.1
     version: 14.0.1(@babel/core@7.22.5)(babel-plugin-macros@3.1.0)(react-dom@18.2.0)(react@18.2.0)
@@ -38,6 +41,9 @@ dependencies:
   react-dom:
     specifier: 18.2.0
     version: 18.2.0(react@18.2.0)
+  tailwind-merge:
+    specifier: 1.14.0
+    version: 1.14.0
   tailwindcss:
     specifier: 3.3.5
     version: 3.3.5
@@ -73,6 +79,9 @@ devDependencies:
   '@testing-library/react':
     specifier: 14.0.0
     version: 14.0.0(react-dom@18.2.0)(react@18.2.0)
+  '@types/langs':
+    specifier: 2.0.3
+    version: 2.0.3
   '@types/node':
     specifier: 20.8.10
     version: 20.8.10
@@ -1538,6 +1547,10 @@ packages:
 
   /@types/json5@0.0.29:
     resolution: {integrity: sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ==}
+    dev: true
+
+  /@types/langs@2.0.3:
+    resolution: {integrity: sha512-StSrhuiUU6vbGrQHZyU1TwJNPbtW61uDU10gcLoTHXksvtUaNcSX9Tr7OCy9R4FmMl15hKUzcyz3sqQt46TPUA==}
     dev: true
 
   /@types/mdast@4.0.2:
@@ -4996,6 +5009,10 @@ packages:
     engines: {node: '>=6'}
     dev: true
 
+  /langs@2.0.0:
+    resolution: {integrity: sha512-v4pxOBEQVN1WBTfB1crhTtxzNLZU9HPWgadlwzWKISJtt6Ku/CnpBrwVy+jFv8StjxsPfwPFzO0CMwdZLJ0/BA==}
+    dev: false
+
   /language-subtag-registry@0.3.22:
     resolution: {integrity: sha512-tN0MCzyWnoz/4nHS6uxdlFWoUZT7ABptwKPQ52Ea7URk6vll88bWBVhodtnlfEuCcKWNGoc+uGbw1cwa9IKh/w==}
     dev: true
@@ -7087,6 +7104,10 @@ packages:
       '@pkgr/utils': 2.4.1
       tslib: 2.5.3
     dev: true
+
+  /tailwind-merge@1.14.0:
+    resolution: {integrity: sha512-3mFKyCo/MBcgyOTlrY8T7odzZFx+w+qKSMAmdFzRvqBfLlSigU6TZnlFHK0lkMwj9Bj8OYU+9yW9lmGuS0QEnQ==}
+    dev: false
 
   /tailwindcss@3.3.5:
     resolution: {integrity: sha512-5SEZU4J7pxZgSkv7FP1zY8i2TIAOooNZ1e/OGtxIEv6GltpoiXUqWvLy89+a10qYTB1N5Ifkuw9lqQkN9sscvA==}
