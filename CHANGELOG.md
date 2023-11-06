@@ -2,6 +2,48 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.30] - 2023-11-06
+
+### Bug Fixes
+
+- Adjust import path in `_app.tsx`
+
+### Refactor
+
+- Update project structure and config files
+
+### Documentation
+
+- Remove manual title prefix in issue templates
+
+### Miscellaneous Tasks
+
+- Update GitHub Actions workflow for enhanced CI/CD pipeline
+- Add a GitHub Actions CI/CD pipeline for automated template cleanup
+- Standardize quotation marks in config files
+- Enable strict versioning in npm, remove auto-install peers
+- Add two new Prettier plugins to `package.json`
+- Add `out` directory to `.prettierignore`
+- Add TailwindCSS linting rules to `.eslintrc.json`
+- Update eslint rule in `.eslintrc.json`
+- Update prettier plugins and configuration
+- Add `.swc` files to `.gitignore`
+- Add `lint-staged.config.js` for pre-commit checks
+- Add `cssnano` plugin only in production
+- Adjust `prettier.config.js` to include tailwind functions
+- Add Next.js Jest configuration
+- Add `unoptimized` images option in `next.config.js`
+- Update `prestart` script to pnpm in `package.json`
+- Remove `preexport` script from `package.json`
+- Add `prepare` script in `package.json`
+- Add `types` script in `package.json`
+- Add `test` script in `package.json`
+- Update `webpack` configuration in `next.config.js`
+- Update `.gitignore` to ignore `lingui` generated files
+- Update `pnpm-lock.yaml` with `lingui` packages for i18n support
+- Add Lingui configuration file for localizations
+- Add necessary scripts to husky pre-commit hooks
+
 ## [1.1.29] - 2023-11-06
 
 ### Bug Fixes
