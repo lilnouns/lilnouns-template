@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "prestart": "npm run build",
+    "prestart": "pnpm run build",
     "start": "wrangler pages dev out",
     "lint": "next lint",
     "preexport": "next-sitemap"
