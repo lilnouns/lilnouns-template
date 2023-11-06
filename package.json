@@ -8,6 +8,7 @@
     "prestart": "pnpm run build",
     "start": "wrangler pages dev out",
     "lint": "next lint",
+    "prepare": "husky install"
   },
   "dependencies": {
     "@next/font": "14.0.1",
