@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.28] - 2023-11-06
+
+### Miscellaneous Tasks
+
+- Remove `export` scripts from package.json
+- Add `export` option to `next.config.js`
+
 ## [1.1.27] - 2023-10-31
 
 ### Miscellaneous Tasks
