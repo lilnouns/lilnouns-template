@@ -5,6 +5,6 @@
     "prettier"
   ],
   "rules": {
-    "@next/next/no-img-element": "off"
+    "tailwindcss/no-custom-classname": "off"
   }
 }
