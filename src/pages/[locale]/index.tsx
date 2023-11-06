@@ -1,8 +1,8 @@
 import { useIsMounted } from '@/hooks'
+import { londrinaSolid } from '@/styles/fonts'
 import clsx from 'clsx'
 import type { NextPage } from 'next'
 import Head from 'next/head'
-import {londrinaSolid} from "@/styles/fonts";
 
 const Home: NextPage = () => {
   const isMounted = useIsMounted()
