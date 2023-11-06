@@ -8,7 +8,6 @@
     "prestart": "pnpm run build",
     "start": "wrangler pages dev out",
     "lint": "next lint",
-    "preexport": "next-sitemap"
   },
   "dependencies": {
     "@next/font": "14.0.1",
