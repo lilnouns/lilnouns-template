@@ -39,5 +39,14 @@ next-env.d.ts
 public/sitemap*
 public/robots.txt
 
+# lingui
+**/locales/_build
+**/locales/*/*.js
+**/locales/*/*.json
+**/locales/*/*.mo
+
 # turbo
 .turbo
+
+# swc
+.swc
