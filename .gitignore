@@ -41,3 +41,6 @@ public/robots.txt
 
 # turbo
 .turbo
+
+# swc
+.swc
