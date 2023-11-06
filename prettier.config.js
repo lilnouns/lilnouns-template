@@ -11,4 +11,5 @@ module.exports = {
     'prettier-plugin-jsdoc',
     'prettier-plugin-tailwindcss',
   ],
+  tailwindFunctions: ['clsx', 'clsxm'],
 }
