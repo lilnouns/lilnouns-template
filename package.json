@@ -53,7 +53,7 @@
     "husky": "8.0.3",
     "incstr": "1.2.3",
     "jest": "29.7.0",
-    "jest-environment-jsdom": "29.6.4",
+    "jest-environment-jsdom": "29.7.0",
     "lint-staged": "15.0.2",
     "mangle-css-class-webpack-plugin": "5.1.0",
     "pnpm": "8.10.2",
