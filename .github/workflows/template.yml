@@ -19,7 +19,7 @@ jobs:
       contents: write
 
     # A conditional check to ensure the job runs only if the name of the repository meets the constraint.
-    if: github.repository != 'nekofar/nextjs-wagmi-template'
+    if: github.repository != 'lilnouns/lilnouns-template'
 
     # Define the steps to be followed in this job.
     steps:

@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.32] - 2023-11-07
+
+### Miscellaneous Tasks
+
+- Update GitHub actions repository condition
+
 ## [1.1.31] - 2023-11-06
 
 ### Refactor
