@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.35] - 2023-11-11
+
+### Refactor
+
+- Add new hooks, utils and components for localization and theming
+- Replace CSS rules and elements with new Layout component
+
 ## [1.1.34] - 2023-11-10
 
 ### Bug Fixes
