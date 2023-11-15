@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.36] - 2023-11-15
+
+### Documentation
+
+- Update social media badge in `README.md`
+
 ## [1.1.35] - 2023-11-11
 
 ### Refactor
