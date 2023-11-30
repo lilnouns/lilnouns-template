@@ -50,3 +50,6 @@ public/robots.txt
 
 # swc
 .swc
+
+# cloudflare
+.wrangler
