@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.38] - 2023-11-30
+
+### Miscellaneous Tasks
+
+- Ignore `.wrangler` files in git
+
 ## [1.1.37] - 2023-11-26
 
 ### Bug Fixes
