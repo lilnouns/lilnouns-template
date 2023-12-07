@@ -1,10 +1,14 @@
 {
+  "$schema": "https://json.schemastore.org/eslintrc",
+  "root": true,
   "extends": [
     "next/core-web-vitals",
     "plugin:tailwindcss/recommended",
+    "plugin:unicorn/recommended",
     "prettier"
   ],
   "rules": {
-    "tailwindcss/no-custom-classname": "off"
+    "tailwindcss/no-custom-classname": "off",
+    "unicorn/prevent-abbreviations": "off"
   }
 }

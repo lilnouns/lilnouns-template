@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.40] - 2023-12-07
+
+### Refactor
+
+- Update import path and error handling in locales
+- Change return value from null to undefined on pages
+- Update locale switcher to use `for` loop instead of `reduce`
+- Replace middleware with route configuration in functions
+
+### Miscellaneous Tasks
+
+- Add `eslint-plugin-unicorn` to eslint config
+- Update `.eslintrc.json` with schema and root properties
+- Turn off `unicorn/prevent-abbreviations` rule in `.eslintrc.json`
+- Update TypeScript compiler options for functions
+- Update `dev` scripts in `package.json`
+
 ## [1.1.39] - 2023-12-04
 
 ### Bug Fixes

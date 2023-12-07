@@ -6,7 +6,7 @@ import Head from 'next/head'
 const Home: NextPage = () => {
   const isMounted = useIsMounted()
 
-  if (!isMounted) return null
+  if (!isMounted) return
   return (
     <>
       <Head>
