@@ -8,6 +8,7 @@
     "prettier"
   ],
   "rules": {
-    "tailwindcss/no-custom-classname": "off"
+    "tailwindcss/no-custom-classname": "off",
+    "unicorn/prevent-abbreviations": "off"
   }
 }
