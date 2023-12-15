@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.45] - 2023-12-15
+
+### Miscellaneous Tasks
+
+- Disable `webpackBuildWorker` on `next.config.js` file
+- Ignore config files on `.eslintignore` file
+
 ## [1.1.44] - 2023-12-15
 
 ### Bug Fixes
