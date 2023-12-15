@@ -15,7 +15,7 @@ const nextConfig = {
     unoptimized: true,
   },
   experimental: {
-    webpackBuildWorker: true,
+    webpackBuildWorker: false,
     swcPlugins: [
       [
         '@lingui/swc-plugin',
@@ -27,11 +27,11 @@ const nextConfig = {
   },
   webpack: (config, { dev, isServer }) => {
     config.resolve.fallback = {
-        // if you miss it, all the other options in fallback, specified
-        // by next.js will be dropped.
-        ...config.resolve.fallback,
+      // if you miss it, all the other options in fallback, specified
+      // by next.js will be dropped.
+      ...config.resolve.fallback,
 
-        fs: false,
+      fs: false,
     }
 
     if (!dev) {
