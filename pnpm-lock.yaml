@@ -27,8 +27,8 @@ dependencies:
     specifier: 2.0.0
     version: 2.0.0
   hono:
-    specifier: 3.11.5
-    version: 3.11.5
+    specifier: 3.11.7
+    version: 3.11.7
   langs:
     specifier: 2.0.0
     version: 2.0.0
@@ -4055,8 +4055,8 @@ packages:
     dependencies:
       function-bind: 1.1.2
 
-  /hono@3.11.5:
-    resolution: {integrity: sha512-6PBpy83kxi41ByBBSOrJ57XUWIFF2NHmQFdKMjm+y+lkERMhPqSEQMBRYIrJb7y1me2Ou10luE5cbS8OmygLQA==}
+  /hono@3.11.7:
+    resolution: {integrity: sha512-TcfAq7IdipF+9coxnuzYlSSBXbm9mTyWjjagLCv/2ampboNcKJdi+XCK5G48mHQtpI5+9Rj3J4FfcGgw9vzIww==}
     engines: {node: '>=16.0.0'}
     dev: false
 
