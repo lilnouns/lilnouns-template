@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.46] - 2023-12-23
+
+### Bug Fixes
+
+- Solve some minor issues and update dependencies
+
 ## [1.1.45] - 2023-12-15
 
 ### Miscellaneous Tasks
