@@ -70,7 +70,7 @@
     "prettier-plugin-tailwindcss": "0.5.10",
     "turbo": "1.11.2",
     "typescript": "5.3.3",
-    "wrangler": "3.22.1"
+    "wrangler": "3.22.2"
   },
   "engines": {
     "node": ">=18.0.0",
