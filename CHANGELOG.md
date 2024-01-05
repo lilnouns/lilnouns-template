@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.48] - 2024-01-05
+
+### Bug Fixes
+
+- Solve some minor issues and update dependencies
+
 ## [1.1.47] - 2023-12-27
 
 ### Bug Fixes
