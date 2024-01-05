@@ -1,6 +1,7 @@
 {
   "name": "lilnouns-template",
-  "version": "1.1.47",
+  "version": "1.1.48",
+  :xa
   "private": true,
   "scripts": {
     "dev": "pnpm run --stream --parallel /^dev:/",
