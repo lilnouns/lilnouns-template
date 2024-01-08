@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.49] - 2024-01-08
+
+### Miscellaneous Tasks
+
+- Add new git flow workflow for handling pull requests
+
 ## [1.1.48] - 2024-01-05
 
 ### Bug Fixes
