@@ -1,6 +1,6 @@
 {
   "name": "lilnouns-template",
-  "version": "1.1.48",
+  "version": "1.1.49",
   :xa
   "private": true,
   "scripts": {
@@ -23,7 +23,7 @@
     "@lingui/react": "4.6.0",
     "autoprefixer": "10.4.14",
     "clsx": "2.1.0",
-    "hono": "3.11.12",
+    "hono": "3.12.0",
     "langs": "2.0.0",
     "next": "14.0.4",
     "next-seo": "6.4.0",
@@ -44,13 +44,13 @@
     "@lingui/loader": "4.6.0",
     "@lingui/macro": "4.6.0",
     "@lingui/swc-plugin": "4.0.4",
-    "@testing-library/jest-dom": "6.1.6",
+    "@testing-library/jest-dom": "6.2.0",
     "@testing-library/react": "14.1.2",
     "@types/langs": "2.0.4",
     "@types/node": "20.10.6",
     "@types/react": "18.2.46",
     "@types/react-dom": "18.2.18",
-    "cssnano": "6.0.2",
+    "cssnano": "6.0.3",
     "eslint": "8.56.0",
     "eslint-config-next": "14.0.4",
     "eslint-config-prettier": "9.1.0",
@@ -69,9 +69,9 @@
     "prettier-plugin-organize-attributes": "1.0.0",
     "prettier-plugin-organize-imports": "3.2.4",
     "prettier-plugin-tailwindcss": "0.5.10",
-    "turbo": "1.11.2",
+    "turbo": "1.11.3",
     "typescript": "5.3.3",
-    "wrangler": "3.22.2"
+    "wrangler": "3.22.3"
   },
   "engines": {
     "node": ">=18.0.0",
