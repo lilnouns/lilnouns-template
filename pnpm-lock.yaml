@@ -12,8 +12,8 @@ dependencies:
     specifier: 2.1.1
     version: 2.1.1(react@18.2.0)
   '@lingui/core':
-    specifier: 4.6.0
-    version: 4.6.0
+    specifier: 4.7.0
+    version: 4.7.0
   '@lingui/detect-locale':
     specifier: 4.7.0
     version: 4.7.0
@@ -473,6 +473,7 @@ packages:
     engines: {node: '>=6.9.0'}
     dependencies:
       regenerator-runtime: 0.14.0
+    dev: true
 
   /@babel/runtime@7.23.5:
     resolution: {integrity: sha512-NdUTHcPe4C99WxPub+K9l9tK5/lV4UXIoaHSYgzco9BCyjKAAwzdBI+wWtYqHt7LJdbo74ZjRPJgzVweq1sz0w==}
@@ -1209,15 +1210,6 @@ packages:
       lodash.get: 4.4.2
     dev: true
 
-  /@lingui/core@4.6.0:
-    resolution: {integrity: sha512-waqozTXrCCm/Rc0GLTlri9+kzNGK7q/beoZG9GjsC1g3HRtTiZWdn0pe3L16YVLHhmoJEXYlAfhsbU5g+A3bfg==}
-    engines: {node: '>=16.0.0'}
-    dependencies:
-      '@babel/runtime': 7.23.2
-      '@lingui/message-utils': 4.6.0
-      unraw: 3.0.0
-    dev: false
-
   /@lingui/core@4.7.0:
     resolution: {integrity: sha512-lr6CMDRztFgS5qna9pLA/MPZRgujN9SCIoQ1LvGZem94U4Qc7ptSwAG1LIET9b3qxRXJm5XOTrq0HefN2Qm1IA==}
     engines: {node: '>=16.0.0'}
@@ -1270,14 +1262,6 @@ packages:
       '@lingui/react': 4.7.0(react@18.2.0)
       babel-plugin-macros: 3.1.0
     dev: true
-
-  /@lingui/message-utils@4.6.0:
-    resolution: {integrity: sha512-2vHJ61ITxGoyKKyO9DbxZMpnF43kH7j8/+UUu7aUKa18XbOW49qnWwZfB8I9ZGCkPxxh5ILbd3IJ70gF68UbQw==}
-    engines: {node: '>=16.0.0'}
-    dependencies:
-      '@messageformat/parser': 5.1.0
-      js-sha256: 0.10.1
-    dev: false
 
   /@lingui/message-utils@4.7.0:
     resolution: {integrity: sha512-JrGdxORRzefOh9qAkQYJchh+ehnWlLK9/kOG9x6VkV9aekWLk8vCVbXBh4Q707sTcIgCki8KwT1yuBMwZ2YBEg==}
