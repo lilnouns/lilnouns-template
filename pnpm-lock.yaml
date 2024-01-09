@@ -77,8 +77,8 @@ devDependencies:
     specifier: 4.6.0
     version: 4.6.0
   '@lingui/loader':
-    specifier: 4.6.0
-    version: 4.6.0(webpack@5.89.0)
+    specifier: 4.7.0
+    version: 4.7.0(webpack@5.89.0)
   '@lingui/macro':
     specifier: 4.6.0
     version: 4.6.0(@lingui/react@4.6.0)(babel-plugin-macros@3.1.0)
@@ -1153,52 +1153,9 @@ packages:
       '@jridgewell/sourcemap-codec': 1.4.15
     dev: true
 
-  /@lingui/babel-plugin-extract-messages@4.6.0:
-    resolution: {integrity: sha512-5endWBnkE7LKIB2I9wLvmyt8tX2AgcvCb7a9eyK4WlS/YJ/rmlXFuzHM6VC0UHHM1LYeV2pgokzOI5i9y/3H0A==}
-    engines: {node: '>=16.0.0'}
-    dev: true
-
   /@lingui/babel-plugin-extract-messages@4.7.0:
     resolution: {integrity: sha512-CROHpjSqLy71aGDskl5wFk47cCuEAsY1etAt6tDkq0iuHwpSebJpzSN58gQJybRTCqYA+3PTkqCADoeSvcTwRA==}
     engines: {node: '>=16.0.0'}
-    dev: true
-
-  /@lingui/cli@4.6.0:
-    resolution: {integrity: sha512-37MTEg0IkqY90p1NObu3HkMNky7W48L0sxdA+U2Gdf9tDv8wcYMnKdz7M3YFn5BxL07SwiN8j0Yyrbz+bsSKJw==}
-    engines: {node: '>=16.0.0'}
-    hasBin: true
-    dependencies:
-      '@babel/core': 7.22.5
-      '@babel/generator': 7.23.3
-      '@babel/parser': 7.23.3
-      '@babel/runtime': 7.23.2
-      '@babel/types': 7.23.3
-      '@lingui/babel-plugin-extract-messages': 4.6.0
-      '@lingui/conf': 4.6.0
-      '@lingui/core': 4.6.0
-      '@lingui/format-po': 4.6.0
-      '@lingui/message-utils': 4.6.0
-      babel-plugin-macros: 3.1.0
-      chalk: 4.1.2
-      chokidar: 3.5.1
-      cli-table: 0.3.6
-      commander: 10.0.1
-      convert-source-map: 2.0.0
-      date-fns: 2.30.0
-      esbuild: 0.17.19
-      glob: 7.2.3
-      inquirer: 7.3.3
-      micromatch: 4.0.2
-      normalize-path: 3.0.0
-      ora: 5.4.1
-      pathe: 1.1.1
-      pkg-up: 3.1.0
-      pofile: 1.1.4
-      pseudolocale: 2.0.0
-      ramda: 0.27.2
-      source-map: 0.8.0-beta.0
-    transitivePeerDependencies:
-      - supports-color
     dev: true
 
   /@lingui/cli@4.7.0:
@@ -1305,15 +1262,15 @@ packages:
       pofile: 1.1.4
     dev: true
 
-  /@lingui/loader@4.6.0(webpack@5.89.0):
-    resolution: {integrity: sha512-5OkcmxrDHzWKsvQza9OLUs41Ljow6QG7NsHJkWAPofRbl9uuSKFwwrePXTKECCIrlQvkSA+t91zbWjnusZ7JLA==}
+  /@lingui/loader@4.7.0(webpack@5.89.0):
+    resolution: {integrity: sha512-j3yVbwMMHTBMBs1dikvES/W2V6nKKwnOTnj5dkgMDYRwKLSUPdLU2m1BcG8eIQh6EyPbHgOFosUzVF1tB75TeA==}
     engines: {node: '>=16.0.0'}
     peerDependencies:
       webpack: ^5.0.0
     dependencies:
-      '@babel/runtime': 7.23.2
-      '@lingui/cli': 4.6.0
-      '@lingui/conf': 4.6.0
+      '@babel/runtime': 7.23.5
+      '@lingui/cli': 4.7.0
+      '@lingui/conf': 4.7.0
       webpack: 5.89.0(esbuild@0.17.19)
     transitivePeerDependencies:
       - supports-color
