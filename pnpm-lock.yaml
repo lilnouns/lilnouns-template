@@ -74,8 +74,8 @@ devDependencies:
     specifier: 4.7.0
     version: 4.7.0
   '@lingui/format-po':
-    specifier: 4.6.0
-    version: 4.6.0
+    specifier: 4.7.0
+    version: 4.7.0
   '@lingui/loader':
     specifier: 4.7.0
     version: 4.7.0(webpack@5.89.0)
@@ -1197,18 +1197,6 @@ packages:
       - supports-color
     dev: true
 
-  /@lingui/conf@4.6.0:
-    resolution: {integrity: sha512-k6Gpm0RB+xf1J2gR5pVsG+FwNLTHTUSpThBCF+dYyWowHbDrxfhi/FtQyNS2doT05VYNraQZanXOFbKjdFgF7A==}
-    engines: {node: '>=16.0.0'}
-    dependencies:
-      '@babel/runtime': 7.23.5
-      chalk: 4.1.2
-      cosmiconfig: 8.2.0
-      jest-validate: 29.7.0
-      jiti: 1.20.0
-      lodash.get: 4.4.2
-    dev: true
-
   /@lingui/conf@4.7.0:
     resolution: {integrity: sha512-j5prZL9PEFfQU7jtXrNIAGWB89KQkjEdYENwwdZyWQ9ZJkp8tcNqcYMTtqcU7vMh2lOJdu4WVuvjvnOHMO9RHQ==}
     engines: {node: '>=16.0.0'}
@@ -1242,16 +1230,6 @@ packages:
     resolution: {integrity: sha512-RggGiwqaweu/iPgnw0FrgYkz05K7t8EeEf4B/O3k1qKg7E30G0CDqRzarrvSqOYqN0+BGDkSsVmycoUaVZUzeg==}
     engines: {node: '>=16.0.0'}
     dev: false
-
-  /@lingui/format-po@4.6.0:
-    resolution: {integrity: sha512-jWvmfOQxbHRyjgqsY0pYeb4BuDK22u3DWss+lBsdvPr3YQYHm7JLX6e/xHwftzD+Wy8zytutQkESL71kFeTUfw==}
-    engines: {node: '>=16.0.0'}
-    dependencies:
-      '@lingui/conf': 4.6.0
-      '@lingui/message-utils': 4.6.0
-      date-fns: 2.30.0
-      pofile: 1.1.4
-    dev: true
 
   /@lingui/format-po@4.7.0:
     resolution: {integrity: sha512-ptUp9nRt6mB9o82O61WzF8c2My/nfMv4cFt+L1oe5XA/+WLDEoOD2eEhu2PLd+/V6rtnnhqQjp3DzoQZ2I/HfA==}
@@ -1299,6 +1277,7 @@ packages:
     dependencies:
       '@messageformat/parser': 5.1.0
       js-sha256: 0.10.1
+    dev: false
 
   /@lingui/message-utils@4.7.0:
     resolution: {integrity: sha512-JrGdxORRzefOh9qAkQYJchh+ehnWlLK9/kOG9x6VkV9aekWLk8vCVbXBh4Q707sTcIgCki8KwT1yuBMwZ2YBEg==}
