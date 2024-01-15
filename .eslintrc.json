@@ -10,5 +10,6 @@
   "rules": {
     "tailwindcss/no-custom-classname": "off",
     "unicorn/prevent-abbreviations": "off"
-  }
+  },
+  "plugins": ["lingui"]
 }
