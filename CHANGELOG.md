@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.52] - 2024-01-16
+
+### Miscellaneous Tasks
+
+- Add `lingui` to the `eslint` plugins
+- Add group of dependencies to Dependabot configs
+
 ## [1.1.51] - 2024-01-14
 
 ### Documentation
