@@ -44,7 +44,7 @@
     "@lingui/macro": "4.7.0",
     "@lingui/swc-plugin": "4.0.4",
     "@testing-library/jest-dom": "6.3.0",
-    "@testing-library/react": "14.1.2",
+    "@testing-library/react": "14.2.0",
     "@types/langs": "2.0.4",
     "@types/node": "20.11.10",
     "@types/react": "18.2.48",
