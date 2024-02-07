@@ -83,8 +83,8 @@ devDependencies:
     specifier: 4.7.0
     version: 4.7.0(@lingui/react@4.7.0)(babel-plugin-macros@3.1.0)
   '@lingui/swc-plugin':
-    specifier: 4.0.4
-    version: 4.0.4(@lingui/macro@4.7.0)(next@14.1.0)
+    specifier: 4.0.5
+    version: 4.0.5(@lingui/macro@4.7.0)(next@14.1.0)
   '@testing-library/jest-dom':
     specifier: 6.4.2
     version: 6.4.2(jest@29.7.0)
@@ -1298,8 +1298,8 @@ packages:
       '@lingui/core': 4.7.0
       react: 18.2.0
 
-  /@lingui/swc-plugin@4.0.4(@lingui/macro@4.7.0)(next@14.1.0):
-    resolution: {integrity: sha512-xRnR96Mqi6zwGlVfGJMfoM8QykBbUz/sSnwmcFL9BZ8Y9YBZxzLAVf4t1BbiIQsAs+pMYu/HfujTBD4y/r1ucA==}
+  /@lingui/swc-plugin@4.0.5(@lingui/macro@4.7.0)(next@14.1.0):
+    resolution: {integrity: sha512-ZQmAsxbEkrPCDnHT31ExlA6YEukp+ScHZu4FQVDdV7H6FI1pNQJSMGBChHXwGjQNQvD6YlZb4BV5ZWXv/nu/2Q==}
     peerDependencies:
       '@lingui/macro': '4'
       '@swc/core': '*'
@@ -2409,7 +2409,7 @@ packages:
     hasBin: true
     dependencies:
       caniuse-lite: 1.0.30001584
-      electron-to-chromium: 1.4.657
+      electron-to-chromium: 1.4.659
       node-releases: 2.0.14
       update-browserslist-db: 1.0.13(browserslist@4.22.3)
     dev: true
@@ -3203,8 +3203,8 @@ packages:
   /electron-to-chromium@1.4.616:
     resolution: {integrity: sha512-1n7zWYh8eS0L9Uy+GskE0lkBUNK83cXTVJI0pU3mGprFsbfSdAc15VTFbo+A+Bq4pwstmL30AVcEU3Fo463lNg==}
 
-  /electron-to-chromium@1.4.657:
-    resolution: {integrity: sha512-On2ymeleg6QbRuDk7wNgDdXtNqlJLM2w4Agx1D/RiTmItiL+a9oq5p7HUa2ZtkAtGBe/kil2dq/7rPfkbe0r5w==}
+  /electron-to-chromium@1.4.659:
+    resolution: {integrity: sha512-sRJ3nV3HowrYpBtPF9bASQV7OW49IgZC01Xiq43WfSE3RTCkK0/JidoCmR73Hyc1mN+l/H4Yqx0eNiomvExFZg==}
     dev: true
 
   /emittery@0.13.1:
