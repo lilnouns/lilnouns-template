@@ -78,7 +78,7 @@ devDependencies:
     version: 4.7.0
   '@lingui/loader':
     specifier: 4.7.0
-    version: 4.7.0(webpack@5.90.2)
+    version: 4.7.0(webpack@5.90.3)
   '@lingui/macro':
     specifier: 4.7.0
     version: 4.7.0(@lingui/react@4.7.0)(babel-plugin-macros@3.1.0)
@@ -98,8 +98,8 @@ devDependencies:
     specifier: 20.11.19
     version: 20.11.19
   '@types/react':
-    specifier: 18.2.56
-    version: 18.2.56
+    specifier: 18.2.57
+    version: 18.2.57
   '@types/react-dom':
     specifier: 18.2.19
     version: 18.2.19
@@ -1244,7 +1244,7 @@ packages:
       pofile: 1.1.4
     dev: true
 
-  /@lingui/loader@4.7.0(webpack@5.90.2):
+  /@lingui/loader@4.7.0(webpack@5.90.3):
     resolution: {integrity: sha512-j3yVbwMMHTBMBs1dikvES/W2V6nKKwnOTnj5dkgMDYRwKLSUPdLU2m1BcG8eIQh6EyPbHgOFosUzVF1tB75TeA==}
     engines: {node: '>=16.0.0'}
     peerDependencies:
@@ -1253,7 +1253,7 @@ packages:
       '@babel/runtime': 7.23.5
       '@lingui/cli': 4.7.0
       '@lingui/conf': 4.7.0
-      webpack: 5.90.2(esbuild@0.17.19)
+      webpack: 5.90.3(esbuild@0.17.19)
     transitivePeerDependencies:
       - supports-color
     dev: true
@@ -1677,11 +1677,11 @@ packages:
   /@types/react-dom@18.2.19:
     resolution: {integrity: sha512-aZvQL6uUbIJpjZk4U8JZGbau9KDeAwMfmhyWorxgBkqDIEf6ROjRozcmPIicqsUwPUjbkDfHKgGee1Lq65APcA==}
     dependencies:
-      '@types/react': 18.2.56
+      '@types/react': 18.2.57
     dev: true
 
-  /@types/react@18.2.56:
-    resolution: {integrity: sha512-NpwHDMkS/EFZF2dONFQHgkPRwhvgq/OAvIaGQzxGSBmaeR++kTg6njr15Vatz0/2VcCEwJQFi6Jf4Q0qBu0rLA==}
+  /@types/react@18.2.57:
+    resolution: {integrity: sha512-ZvQsktJgSYrQiMirAN60y4O/LRevIV8hUzSOSNB6gfR3/o3wCBFQx3sPwIYtuDMeiVgsSS3UzCV26tEzgnfvQw==}
     dependencies:
       '@types/prop-types': 15.7.11
       '@types/scheduler': 0.16.8
@@ -2409,7 +2409,7 @@ packages:
     hasBin: true
     dependencies:
       caniuse-lite: 1.0.30001588
-      electron-to-chromium: 1.4.673
+      electron-to-chromium: 1.4.675
       node-releases: 2.0.14
       update-browserslist-db: 1.0.13(browserslist@4.23.0)
     dev: true
@@ -3206,8 +3206,8 @@ packages:
   /electron-to-chromium@1.4.659:
     resolution: {integrity: sha512-sRJ3nV3HowrYpBtPF9bASQV7OW49IgZC01Xiq43WfSE3RTCkK0/JidoCmR73Hyc1mN+l/H4Yqx0eNiomvExFZg==}
 
-  /electron-to-chromium@1.4.673:
-    resolution: {integrity: sha512-zjqzx4N7xGdl5468G+vcgzDhaHkaYgVcf9MqgexcTqsl2UHSCmOj/Bi3HAprg4BZCpC7HyD8a6nZl6QAZf72gw==}
+  /electron-to-chromium@1.4.675:
+    resolution: {integrity: sha512-+1u3F/XPNIdUwv8i1lDxHAxCvNNU0QIqgb1Ycn+Jnng8ITzWSvUqixRSM7NOazJuwhf65IV17f/VbKj8DmL26A==}
     dev: true
 
   /emittery@0.13.1:
@@ -7672,7 +7672,7 @@ packages:
     engines: {node: '>=6'}
     dev: true
 
-  /terser-webpack-plugin@5.3.10(esbuild@0.17.19)(webpack@5.90.2):
+  /terser-webpack-plugin@5.3.10(esbuild@0.17.19)(webpack@5.90.3):
     resolution: {integrity: sha512-BKFPWlPDndPs+NGGCr1U59t0XScL5317Y0UReNrHaw9/FwhPENlq6bfgs+4yPfyP51vqC1bQ4rp1EfXW5ZSH9w==}
     engines: {node: '>= 10.13.0'}
     peerDependencies:
@@ -7693,12 +7693,12 @@ packages:
       jest-worker: 27.5.1
       schema-utils: 3.3.0
       serialize-javascript: 6.0.2
-      terser: 5.27.1
-      webpack: 5.90.2(esbuild@0.17.19)
+      terser: 5.27.2
+      webpack: 5.90.3(esbuild@0.17.19)
     dev: true
 
-  /terser@5.27.1:
-    resolution: {integrity: sha512-29wAr6UU/oQpnTw5HoadwjUZnFQXGdOfj0LjZ4sVxzqwHh/QVkvr7m8y9WoR4iN3FRitVduTc6KdjcW38Npsug==}
+  /terser@5.27.2:
+    resolution: {integrity: sha512-sHXmLSkImesJ4p5apTeT63DsV4Obe1s37qT8qvwHRmVxKTBH7Rv9Wr26VcAMmLbmk9UliiwK8z+657NyJHHy/w==}
     engines: {node: '>=10'}
     hasBin: true
     dependencies:
@@ -8129,8 +8129,8 @@ packages:
     engines: {node: '>=10.13.0'}
     dev: true
 
-  /webpack@5.90.2(esbuild@0.17.19):
-    resolution: {integrity: sha512-ziXu8ABGr0InCMEYFnHrYweinHK2PWrMqnwdHk2oK3rRhv/1B+2FnfwYv5oD+RrknK/Pp/Hmyvu+eAsaMYhzCw==}
+  /webpack@5.90.3(esbuild@0.17.19):
+    resolution: {integrity: sha512-h6uDYlWCctQRuXBs1oYpVe6sFcWedl0dpcVaTf/YF67J9bKvwJajFulMVSYKHrksMB3I/pIagRzDxwxkebuzKA==}
     engines: {node: '>=10.13.0'}
     hasBin: true
     peerDependencies:
@@ -8160,7 +8160,7 @@ packages:
       neo-async: 2.6.2
       schema-utils: 3.3.0
       tapable: 2.2.1
-      terser-webpack-plugin: 5.3.10(esbuild@0.17.19)(webpack@5.90.2)
+      terser-webpack-plugin: 5.3.10(esbuild@0.17.19)(webpack@5.90.3)
       watchpack: 2.4.0
       webpack-sources: 3.2.3
     transitivePeerDependencies:
