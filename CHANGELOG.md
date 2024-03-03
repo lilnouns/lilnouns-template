@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.55]] - 2024-03-03
+
+### Miscellaneous Tasks
+
+- Add `undici` to the resolutions
+- Update prepare script for `husky` on `package.json`
+
 ## [1.1.54] - 2024-02-02
 
 ### Bug Fixes
