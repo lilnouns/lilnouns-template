@@ -173,8 +173,8 @@ devDependencies:
     specifier: 5.4.2
     version: 5.4.2
   wrangler:
-    specifier: 3.35.0
-    version: 3.35.0(@cloudflare/workers-types@4.20240314.0)
+    specifier: 3.36.0
+    version: 3.36.0(@cloudflare/workers-types@4.20240314.0)
 
 packages:
 
@@ -1652,12 +1652,6 @@ packages:
     resolution: {integrity: sha512-FQx220y22OKNTqaByeBGqHWYz4cl94tpcxeFdvBo3wjG6XPBuZ0BNgNZRV5J5TFmmcsJ4IzsLkmGRiQbnYsBEQ==}
     dependencies:
       '@types/node': 20.11.30
-    dev: true
-
-  /@types/node@20.11.29:
-    resolution: {integrity: sha512-P99thMkD/1YkCvAtOd6/zGedKNA0p2fj4ZpjCzcNiSCBWgm3cNRTBfa/qjFnsKkkojxu4vVLtWpesnZ9+ap+gA==}
-    dependencies:
-      undici-types: 5.26.5
     dev: true
 
   /@types/node@20.11.30:
@@ -5070,7 +5064,7 @@ packages:
     resolution: {integrity: sha512-7vuh85V5cdDofPyxn58nrPjBktZo0u9x1g8WtjQol+jZDaE+fhN+cIvTj11GndBnMnyfrUOG1sZQxCdjKh+DKg==}
     engines: {node: '>= 10.13.0'}
     dependencies:
-      '@types/node': 20.11.29
+      '@types/node': 20.11.30
       merge-stream: 2.0.0
       supports-color: 8.1.1
     dev: true
@@ -8160,8 +8154,8 @@ packages:
       '@cloudflare/workerd-windows-64': 1.20240314.0
     dev: true
 
-  /wrangler@3.35.0(@cloudflare/workers-types@4.20240314.0):
-    resolution: {integrity: sha512-8k0BZQTq5wkLvkvrwMMiilAqemllDN9ro/Vstz83S5kVPeIRqjlvCpoEypGDjH9BGZEeRcDyqZKM3mgI/x6/gw==}
+  /wrangler@3.36.0(@cloudflare/workers-types@4.20240314.0):
+    resolution: {integrity: sha512-Fywf9RGAePIuIDcsSg4BW+lDUZX1jh2jN+TtmZOwG5Ewdr9dJGP3dxoFa85eQQZP1VLvY4lsqrKy67JqOuP9Gw==}
     engines: {node: '>=16.17.0'}
     hasBin: true
     peerDependencies:
