@@ -30,8 +30,8 @@ dependencies:
     specifier: 2.1.0
     version: 2.1.0
   hono:
-    specifier: 4.1.2
-    version: 4.1.2
+    specifier: 4.1.3
+    version: 4.1.3
   langs:
     specifier: 2.0.0
     version: 2.0.0
@@ -2467,9 +2467,6 @@ packages:
       lodash.uniq: 4.5.0
     dev: true
 
-  /caniuse-lite@1.0.30001596:
-    resolution: {integrity: sha512-zpkZ+kEr6We7w63ORkoJ2pOfBwBkY/bJrG/UZ90qNb45Isblu8wzDgevEOrRL1r9dWayHjYiiyCMEXPn4DweGQ==}
-
   /caniuse-lite@1.0.30001599:
     resolution: {integrity: sha512-LRAQHZ4yT1+f9LemSMeqdMpMxZcc4RMWdj4tiFe3G8tNkWK+E58g+/tzotb5cU6TbcVJLr4fySiAW7XmxQvZQA==}
 
@@ -4261,8 +4258,8 @@ packages:
     dependencies:
       function-bind: 1.1.2
 
-  /hono@4.1.2:
-    resolution: {integrity: sha512-pbfllzxpZifsp8gbjB01wetLk6Lc4p0OkJmtbH92CYFMPAdL6dzS2tHldfPjnNP87mNJS717P72lt6jzZSqg/g==}
+  /hono@4.1.3:
+    resolution: {integrity: sha512-V0I6qCw0gn2MA4LLtyXe6oD3/7ToeQf5Zv98o7uSuLuViQgWHJeYoYrZ4NbXhOtg4SaZjNJJm1+XuFB3LN+j6A==}
     engines: {node: '>=16.0.0'}
     dev: false
 
