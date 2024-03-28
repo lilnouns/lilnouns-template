@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.58] - 2024-03-28
+
+### Miscellaneous Tasks
+
+- Downgrade lingui to stable version
+
 ## [1.1.57] - 2024-03-27
 
 ### Bug Fixes
