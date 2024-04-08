@@ -30,8 +30,8 @@ dependencies:
     specifier: 2.1.0
     version: 2.1.0
   hono:
-    specifier: 4.2.1
-    version: 4.2.1
+    specifier: 4.2.2
+    version: 4.2.2
   langs:
     specifier: 2.0.0
     version: 2.0.0
@@ -1659,12 +1659,6 @@ packages:
     resolution: {integrity: sha512-FQx220y22OKNTqaByeBGqHWYz4cl94tpcxeFdvBo3wjG6XPBuZ0BNgNZRV5J5TFmmcsJ4IzsLkmGRiQbnYsBEQ==}
     dependencies:
       '@types/node': 20.12.4
-    dev: true
-
-  /@types/node@20.12.3:
-    resolution: {integrity: sha512-sD+ia2ubTeWrOu+YMF+MTAB7E+O7qsMqAbMfW7DG3K1URwhZ5hN1pLlRVGbf4wDFzSfikL05M17EyorS86jShw==}
-    dependencies:
-      undici-types: 5.26.5
     dev: true
 
   /@types/node@20.12.4:
@@ -4270,8 +4264,8 @@ packages:
     dependencies:
       function-bind: 1.1.2
 
-  /hono@4.2.1:
-    resolution: {integrity: sha512-yDv/6esHiDgq5fvsALTNyNiRxktOplO6LfSMgIkGE+E5vF8axsUfcyfzzlbLYM9ZQDMuws/ZLGUGWwYnAwCcNw==}
+  /hono@4.2.2:
+    resolution: {integrity: sha512-mDmjBHF6uBNN3TASdAbDCFsN9FLbrlgXyFZkhLEkU7hUgk0+T9hcsUrL/nho4qV+Xk0RDHx7gop4Q1gelZZVRw==}
     engines: {node: '>=16.0.0'}
     dev: false
 
@@ -5151,7 +5145,7 @@ packages:
     resolution: {integrity: sha512-7vuh85V5cdDofPyxn58nrPjBktZo0u9x1g8WtjQol+jZDaE+fhN+cIvTj11GndBnMnyfrUOG1sZQxCdjKh+DKg==}
     engines: {node: '>= 10.13.0'}
     dependencies:
-      '@types/node': 20.12.3
+      '@types/node': 20.12.4
       merge-stream: 2.0.0
       supports-color: 8.1.1
     dev: true
