@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.59] - 2024-04-18
+
+### Bug Fixes
+
+- Solve some minor issues and update dependencies
+
 ## [1.1.58] - 2024-03-28
 
 ### Miscellaneous Tasks
