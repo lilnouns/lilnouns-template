@@ -12,7 +12,7 @@
     "lint": "next lint",
     "test": "jest",
     "types": "pnpx typesync || :",
-    "prepare": "husky"
+    "prepare": "husky || true"
   },
   "dependencies": {
     "@headlessui/react": "1.7.19",
