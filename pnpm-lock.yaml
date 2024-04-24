@@ -5,7 +5,8 @@ settings:
   excludeLinksFromLockfile: false
 
 overrides:
-  undici: <=5.28.3
+  undici: <=5.28.4
+  hono: <=4.2.7
 
 importers:
 
@@ -33,7 +34,7 @@ importers:
         specifier: 2.1.1
         version: 2.1.1
       hono:
-        specifier: 4.2.7
+        specifier: <=4.2.7
         version: 4.2.7
       langs:
         specifier: 2.0.0
