@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.60] - 2024-04-24
+
+### Miscellaneous Tasks
+
+- Update scripts and hooks of Husky
+- Update ESLint configs and improve rules
+
 ## [1.1.59] - 2024-04-18
 
 ### Bug Fixes
