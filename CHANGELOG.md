@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.61] - 2024-05-04
+
+### Miscellaneous Tasks
+
+- Update pnpm lock file version to 9
+
 ## [1.1.60] - 2024-04-24
 
 ### Miscellaneous Tasks
