@@ -10,8 +10,8 @@ overrides:
 
 dependencies:
   '@headlessui/react':
-    specifier: 2.0.4
-    version: 2.0.4(react-dom@18.3.1)(react@18.3.1)
+    specifier: 2.1.0
+    version: 2.1.0(react-dom@18.3.1)(react@18.3.1)
   '@heroicons/react':
     specifier: 2.1.4
     version: 2.1.4(react@18.3.1)
@@ -901,8 +901,8 @@ packages:
     resolution: {integrity: sha512-J4yDIIthosAsRZ5CPYP/jQvUAQtlZTTD/4suA08/FEnlxqW3sKS9iAhgsa9VYLZ6vDHn/ixJgIqRQPotoBjxIw==}
     dev: false
 
-  /@headlessui/react@2.0.4(react-dom@18.3.1)(react@18.3.1):
-    resolution: {integrity: sha512-16d/rOLeYsFsmPlRmXGu8DCBzrWD0zV1Ccx3n73wN87yFu8Y9+X04zflv8EJEt9TAYRyLKOmQXUnOnqQl6NgpA==}
+  /@headlessui/react@2.1.0(react-dom@18.3.1)(react@18.3.1):
+    resolution: {integrity: sha512-/MizQk2xqR5ELkmCI1xWy3VgJULvR8gcAXtZhcK7sY53TNRCPeMdeODEXKSv9LPSSRlEAyzW1+NGJiaXq6dLRw==}
     engines: {node: '>=10'}
     peerDependencies:
       react: ^18
@@ -1795,12 +1795,6 @@ packages:
     resolution: {integrity: sha512-FQx220y22OKNTqaByeBGqHWYz4cl94tpcxeFdvBo3wjG6XPBuZ0BNgNZRV5J5TFmmcsJ4IzsLkmGRiQbnYsBEQ==}
     dependencies:
       '@types/node': 20.14.7
-    dev: true
-
-  /@types/node@20.14.6:
-    resolution: {integrity: sha512-JbA0XIJPL1IiNnU7PFxDXyfAwcwVVrOoqyzzyQTyMeVhBzkJVMSkC1LlVsRQ2lpqiY4n6Bb9oCS6lzDKVQxbZw==}
-    dependencies:
-      undici-types: 5.26.5
     dev: true
 
   /@types/node@20.14.7:
@@ -5200,7 +5194,7 @@ packages:
     resolution: {integrity: sha512-7vuh85V5cdDofPyxn58nrPjBktZo0u9x1g8WtjQol+jZDaE+fhN+cIvTj11GndBnMnyfrUOG1sZQxCdjKh+DKg==}
     engines: {node: '>= 10.13.0'}
     dependencies:
-      '@types/node': 20.14.6
+      '@types/node': 20.14.7
       merge-stream: 2.0.0
       supports-color: 8.1.1
     dev: true
