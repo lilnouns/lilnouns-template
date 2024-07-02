@@ -71,7 +71,7 @@
     "prettier-plugin-organize-imports": "4.0.0",
     "prettier-plugin-tailwindcss": "0.6.5",
     "turbo": "2.0.6",
-    "typescript": "5.5.2",
+    "typescript": "5.5.3",
     "wrangler": "3.62.0"
   },
   "resolutions": {
