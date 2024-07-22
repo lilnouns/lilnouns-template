@@ -72,7 +72,7 @@
     "prettier-plugin-tailwindcss": "0.6.5",
     "turbo": "2.0.7",
     "typescript": "5.5.3",
-    "wrangler": "3.65.0"
+    "wrangler": "3.65.1"
   },
   "resolutions": {
     "undici": "<=5.28.4",
