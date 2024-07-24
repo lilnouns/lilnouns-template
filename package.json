@@ -43,7 +43,7 @@
     "@lingui/loader": "4.8.0",
     "@lingui/macro": "4.8.0",
     "@lingui/swc-plugin": "4.0.6",
-    "@testing-library/jest-dom": "6.4.7",
+    "@testing-library/jest-dom": "6.4.8",
     "@testing-library/react": "16.0.0",
     "@types/langs": "2.0.5",
     "@types/node": "20.14.12",
