@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.63] - 2024-09-13
+
+### Miscellaneous Tasks
+
+- Add ignore rules for specific updates
+- Update Node.js versions in build matrix
+
 ## [1.1.62] - 2024-09-02
 
 ### Bug Fixes
