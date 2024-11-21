@@ -155,8 +155,8 @@ importers:
         specifier: 5.1.0
         version: 5.1.0
       pnpm:
-        specifier: 9.13.2
-        version: 9.13.2
+        specifier: 9.14.2
+        version: 9.14.2
       prettier:
         specifier: 3.3.3
         version: 3.3.3
@@ -3465,8 +3465,8 @@ packages:
     resolution: {integrity: sha512-Nc3IT5yHzflTfbjgqWcCPpo7DaKy4FnpB0l/zCAW0Tc7jxAiuqSxHasntB3D7887LSrA93kDJ9IXovxJYxyLCA==}
     engines: {node: '>=4'}
 
-  pnpm@9.13.2:
-    resolution: {integrity: sha512-iMnDhkRQNQ5lozWHq4Aaz5RtfIFO0RNNpKkk9t9aISD9NrRqq2j3zR1BMUkRLVPH2zpBNmJM/QD/GEagxs70ig==}
+  pnpm@9.14.2:
+    resolution: {integrity: sha512-biuvd9Brk2IpQVLIUcTyeO3jerHro6Vf2jF6SheyCfTbuXP7JQp3q8Rjo0H8sfF/F8+iQJHE6zGc2g2bhCeDhw==}
     engines: {node: '>=18.12'}
     hasBin: true
 
@@ -8624,7 +8624,7 @@ snapshots:
 
   pluralize@8.0.0: {}
 
-  pnpm@9.13.2: {}
+  pnpm@9.14.2: {}
 
   pofile@1.1.4: {}
 
