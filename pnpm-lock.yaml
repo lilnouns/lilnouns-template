@@ -122,8 +122,8 @@ importers:
         specifier: 9.1.0
         version: 9.1.0(eslint@9.15.0(jiti@1.21.6))
       eslint-plugin-lingui:
-        specifier: 0.8.0
-        version: 0.8.0(eslint@9.15.0(jiti@1.21.6))(typescript@5.7.2)
+        specifier: 0.8.1
+        version: 0.8.1(eslint@9.15.0(jiti@1.21.6))(typescript@5.7.2)
       eslint-plugin-next-on-pages:
         specifier: 1.13.5
         version: 1.13.5(eslint@9.15.0(jiti@1.21.6))
@@ -1068,9 +1068,6 @@ packages:
 
   '@types/node@22.10.0':
     resolution: {integrity: sha512-XC70cRZVElFHfIUB40FgZOBbgJYFKKMa5nb9lxcwYstFG/Mi+/Y0bGS+rs6Dmhmkpq4pnNiLiuZAbc02YCOnmA==}
-
-  '@types/node@22.9.1':
-    resolution: {integrity: sha512-p8Yy/8sw1caA8CdRIQBG5tiLHmxtQKObCijiAa9Ez+d4+PRffM4054xbju0msf+cvhJpnFEeNjxmVT/0ipktrg==}
 
   '@types/normalize-package-data@2.4.4':
     resolution: {integrity: sha512-37i+OaWTh9qeK4LSHPsyRC7NahnGotNuZvjLSgcPzblpHB3rrCJxAOgI5gCdKm7coonsaX1Of0ILiTcnZjbfxA==}
@@ -2075,8 +2072,8 @@ packages:
     peerDependencies:
       eslint: ^3 || ^4 || ^5 || ^6 || ^7 || ^8
 
-  eslint-plugin-lingui@0.8.0:
-    resolution: {integrity: sha512-GUg3hHkzc08DHqW49Oydti5SKNAlOFlSmLGigTTieXjUntjyYDT3WFyrhHRZKEHik34zTbrPjEHnvQdGyjNynA==}
+  eslint-plugin-lingui@0.8.1:
+    resolution: {integrity: sha512-z9ohxNkdaEzr0UCtZQGYF/7UgHmdTraylw2dabSzbbGovEPnsLZf1LOu9mOhGh5r0BDm5MsQyZjeTCTlFWAA8g==}
     engines: {node: '>=16.0.0'}
     peerDependencies:
       eslint: ^8.37.0 || ^9.0.0
@@ -4435,9 +4432,6 @@ packages:
   unbox-primitive@1.0.2:
     resolution: {integrity: sha512-61pPlCD9h51VoreyJ0BReideM3MDKMKnh6+V9L08331ipq6Q8OFXZYiqP6n/tbHx4s5I9uRhcye6BrbkizkBDw==}
 
-  undici-types@6.19.8:
-    resolution: {integrity: sha512-ve2KP6f/JnbPBFyobGHuerC9g1FYGn/F8n1LWTwNxCEzd6IfqTwUQcNXgEtmmQ6DlRrC1hrSrBnCZPokRrDHjw==}
-
   undici-types@6.20.0:
     resolution: {integrity: sha512-Ny6QZ2Nju20vw1SRHe3d9jVu6gJ+4e3+MMpqu7pqE5HT6WsTSlce++GQmK5UXS8mzV8DSYHrQH+Xrf2jVcuKNg==}
 
@@ -5658,10 +5652,6 @@ snapshots:
     dependencies:
       undici-types: 6.20.0
 
-  '@types/node@22.9.1':
-    dependencies:
-      undici-types: 6.19.8
-
   '@types/normalize-package-data@2.4.4': {}
 
   '@types/parse-json@4.0.2': {}
@@ -6874,7 +6864,7 @@ snapshots:
       object.entries: 1.1.8
       object.fromentries: 2.0.8
 
-  eslint-plugin-lingui@0.8.0(eslint@9.15.0(jiti@1.21.6))(typescript@5.7.2):
+  eslint-plugin-lingui@0.8.1(eslint@9.15.0(jiti@1.21.6))(typescript@5.7.2):
     dependencies:
       '@typescript-eslint/utils': 8.8.1(eslint@9.15.0(jiti@1.21.6))(typescript@5.7.2)
       eslint: 9.15.0(jiti@1.21.6)
@@ -7875,7 +7865,7 @@ snapshots:
 
   jest-worker@27.5.1:
     dependencies:
-      '@types/node': 22.9.1
+      '@types/node': 22.10.0
       merge-stream: 2.0.0
       supports-color: 8.1.1
 
@@ -9552,8 +9542,6 @@ snapshots:
       has-bigints: 1.0.2
       has-symbols: 1.0.3
       which-boxed-primitive: 1.0.2
-
-  undici-types@6.19.8: {}
 
   undici-types@6.20.0: {}
 
