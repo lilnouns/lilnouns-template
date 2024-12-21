@@ -42,7 +42,7 @@
     "@lingui/format-po": "4.8.0",
     "@lingui/loader": "4.8.0",
     "@lingui/macro": "4.8.0",
-    "@lingui/swc-plugin": "4.0.6",
+    "@lingui/swc-plugin": "4.0.10",
     "@testing-library/jest-dom": "6.6.3",
     "@testing-library/react": "16.1.0",
     "@types/langs": "2.0.5",
