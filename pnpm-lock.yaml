@@ -122,8 +122,8 @@ importers:
         specifier: 9.1.0
         version: 9.1.0(eslint@9.17.0(jiti@1.21.6))
       eslint-plugin-lingui:
-        specifier: 0.8.4
-        version: 0.8.4(eslint@9.17.0(jiti@1.21.6))(typescript@5.7.2)
+        specifier: 0.9.0
+        version: 0.9.0(eslint@9.17.0(jiti@1.21.6))(typescript@5.7.2)
       eslint-plugin-next-on-pages:
         specifier: 1.13.7
         version: 1.13.7(eslint@9.17.0(jiti@1.21.6))
@@ -2088,8 +2088,8 @@ packages:
     peerDependencies:
       eslint: ^3 || ^4 || ^5 || ^6 || ^7 || ^8
 
-  eslint-plugin-lingui@0.8.4:
-    resolution: {integrity: sha512-7A/mIANcJgvWoTkCIdLodlGF6ZZOfQXZ4nqkVPWVzNwIjyh39SOgEuLPBThmPzpzCFAOTLbBi1lKq9hzN4vpFQ==}
+  eslint-plugin-lingui@0.9.0:
+    resolution: {integrity: sha512-mGc7MUqJP28WOrXysxf6suCvAUoIvU7v0F1cvvRk/aPzaTRXVzDdIl62/CJk9NurUFazXC70sbafe/5d8V8tYA==}
     engines: {node: '>=16.0.0'}
     peerDependencies:
       eslint: ^8.37.0 || ^9.0.0
@@ -6915,7 +6915,7 @@ snapshots:
       object.entries: 1.1.8
       object.fromentries: 2.0.8
 
-  eslint-plugin-lingui@0.8.4(eslint@9.17.0(jiti@1.21.6))(typescript@5.7.2):
+  eslint-plugin-lingui@0.9.0(eslint@9.17.0(jiti@1.21.6))(typescript@5.7.2):
     dependencies:
       '@typescript-eslint/utils': 8.8.1(eslint@9.17.0(jiti@1.21.6))(typescript@5.7.2)
       eslint: 9.17.0(jiti@1.21.6)
