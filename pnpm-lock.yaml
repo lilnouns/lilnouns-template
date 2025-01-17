@@ -128,8 +128,8 @@ importers:
         specifier: 1.13.7
         version: 1.13.7(eslint@9.18.0(jiti@1.21.6))
       eslint-plugin-prettier:
-        specifier: 5.2.1
-        version: 5.2.1(@types/eslint@9.6.1)(eslint-config-prettier@10.0.1(eslint@9.18.0(jiti@1.21.6)))(eslint@9.18.0(jiti@1.21.6))(prettier@3.4.2)
+        specifier: 5.2.2
+        version: 5.2.2(@types/eslint@9.6.1)(eslint-config-prettier@10.0.1(eslint@9.18.0(jiti@1.21.6)))(eslint@9.18.0(jiti@1.21.6))(prettier@3.4.2)
       eslint-plugin-tailwindcss:
         specifier: 3.17.5
         version: 3.17.5(tailwindcss@3.4.17)
@@ -1061,9 +1061,6 @@ packages:
 
   '@types/ms@0.7.34':
     resolution: {integrity: sha512-nG96G3Wp6acyAgJqGasjODb+acrI7KltPiRxzHPXnP3NgI28bpQDRv53olbqGXbfcgF5aiiHmO3xpwEpS5Ld9g==}
-
-  '@types/node@22.10.5':
-    resolution: {integrity: sha512-F8Q+SeGimwOo86fiovQh8qiXfFEh2/ocYv7tU5pJ3EXMSSxk1Joj5wefpFK2fHTf/N6HKGSxIDBT9f3gCxXPkQ==}
 
   '@types/node@22.10.6':
     resolution: {integrity: sha512-qNiuwC4ZDAUNcY47xgaSuS92cjf8JbSUoaKS77bmLG1rU7MlATVSiw/IlrjtIyyskXBZ8KkNfjK/P5na7rgXbQ==}
@@ -2095,8 +2092,8 @@ packages:
     peerDependencies:
       eslint: ^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0
 
-  eslint-plugin-prettier@5.2.1:
-    resolution: {integrity: sha512-gH3iR3g4JfF+yYPaJYkN7jEl9QbweL/YfkoRlNnuIEHEz1vHVlCmWOS+eGGiRuzHQXdJFCOTxRgvju9b8VUmrw==}
+  eslint-plugin-prettier@5.2.2:
+    resolution: {integrity: sha512-1yI3/hf35wmlq66C8yOyrujQnel+v5l1Vop5Cl2I6ylyNTT1JbuUUnV3/41PzwTzcyDp/oF0jWE3HXvcH5AQOQ==}
     engines: {node: ^14.18.0 || >=16.0.0}
     peerDependencies:
       '@types/eslint': '>=8.0.0'
@@ -5674,10 +5671,6 @@ snapshots:
 
   '@types/ms@0.7.34': {}
 
-  '@types/node@22.10.5':
-    dependencies:
-      undici-types: 6.20.0
-
   '@types/node@22.10.6':
     dependencies:
       undici-types: 6.20.0
@@ -6925,7 +6918,7 @@ snapshots:
       comment-parser: 1.4.1
       eslint: 9.18.0(jiti@1.21.6)
 
-  eslint-plugin-prettier@5.2.1(@types/eslint@9.6.1)(eslint-config-prettier@10.0.1(eslint@9.18.0(jiti@1.21.6)))(eslint@9.18.0(jiti@1.21.6))(prettier@3.4.2):
+  eslint-plugin-prettier@5.2.2(@types/eslint@9.6.1)(eslint-config-prettier@10.0.1(eslint@9.18.0(jiti@1.21.6)))(eslint@9.18.0(jiti@1.21.6))(prettier@3.4.2):
     dependencies:
       eslint: 9.18.0(jiti@1.21.6)
       prettier: 3.4.2
@@ -7911,7 +7904,7 @@ snapshots:
 
   jest-worker@27.5.1:
     dependencies:
-      '@types/node': 22.10.5
+      '@types/node': 22.10.6
       merge-stream: 2.0.0
       supports-color: 8.1.1
 
