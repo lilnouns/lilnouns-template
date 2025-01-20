@@ -56,7 +56,7 @@
     "eslint-plugin-lingui": "0.9.0",
     "eslint-plugin-next-on-pages": "1.13.7",
     "eslint-plugin-prettier": "5.2.2",
-    "eslint-plugin-tailwindcss": "3.17.5",
+    "eslint-plugin-tailwindcss": "3.18.0",
     "eslint-plugin-unicorn": "56.0.1",
     "husky": "9.1.7",
     "incstr": "1.2.3",
