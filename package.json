@@ -70,7 +70,7 @@
     "prettier-plugin-organize-attributes": "1.0.0",
     "prettier-plugin-organize-imports": "4.1.0",
     "prettier-plugin-tailwindcss": "0.6.10",
-    "turbo": "2.3.3",
+    "turbo": "2.3.4",
     "typescript": "5.7.3",
     "wrangler": "3.105.0"
   },
