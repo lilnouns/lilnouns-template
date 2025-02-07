@@ -155,8 +155,8 @@ importers:
         specifier: 5.1.0
         version: 5.1.0
       pnpm:
-        specifier: 10.2.0
-        version: 10.2.0
+        specifier: 10.2.1
+        version: 10.2.1
       prettier:
         specifier: 3.4.2
         version: 3.4.2
@@ -1912,8 +1912,8 @@ packages:
   electron-to-chromium@1.5.62:
     resolution: {integrity: sha512-t8c+zLmJHa9dJy96yBZRXGQYoiCEnHYgFwn1asvSPZSUdVxnB62A4RASd7k41ytG3ErFBA0TpHlKg9D9SQBmLg==}
 
-  electron-to-chromium@1.5.93:
-    resolution: {integrity: sha512-M+29jTcfNNoR9NV7la4SwUqzWAxEwnc7ThA5e1m6LRSotmpfpCpLcIfgtSCVL+MllNLgAyM/5ru86iMRemPzDQ==}
+  electron-to-chromium@1.5.94:
+    resolution: {integrity: sha512-v+oaMuy6AgwZ6Hi2u5UgcM3wxzeFscBTsZBQL2FoDTx/T6k1XEQKz++8fe1VlQ3zjXB6hcvy5JPb5ZSkmVtdIQ==}
 
   emittery@0.13.1:
     resolution: {integrity: sha512-DeWwawk6r5yR9jFgnDKYt4sLS0LmHJJi3ZOnb5/JdbYwj3nW+FxQnHIjhBKz8YLC7oRNPVM9NQ47I3CVx34eqQ==}
@@ -3466,8 +3466,8 @@ packages:
     resolution: {integrity: sha512-Nc3IT5yHzflTfbjgqWcCPpo7DaKy4FnpB0l/zCAW0Tc7jxAiuqSxHasntB3D7887LSrA93kDJ9IXovxJYxyLCA==}
     engines: {node: '>=4'}
 
-  pnpm@10.2.0:
-    resolution: {integrity: sha512-DSc2TgE5xqre7WWtoVMTXgypbI2kISO9UAR/lhM53Hp1j8LpRLQo9SvlcNG9M3JFXBxl+i56oL+/kxGQ+VUgAQ==}
+  pnpm@10.2.1:
+    resolution: {integrity: sha512-OYA1x71pbQugsQpojtVYKFMp0n6plIBKUrrZFn2OOnK8uZP5aZWF08old5rGSUnvQidXpsMRAsEquTLly+XMkg==}
     engines: {node: '>=18.12'}
     hasBin: true
 
@@ -4305,8 +4305,8 @@ packages:
       uglify-js:
         optional: true
 
-  terser@5.38.0:
-    resolution: {integrity: sha512-a4GD5R1TjEeuCT6ZRiYMHmIf7okbCPEuhQET8bczV6FrQMMlFXA1n+G0KKjdlFCm3TEHV77GxfZB3vZSUQGFpg==}
+  terser@5.38.1:
+    resolution: {integrity: sha512-GWANVlPM/ZfYzuPHjq0nxT+EbOEDDN3Jwhwdg1D8TU8oSkktp8w64Uq4auuGLxFSoNTRDncTq2hQHX1Ld9KHkA==}
     engines: {node: '>=10'}
     hasBin: true
 
@@ -6172,7 +6172,7 @@ snapshots:
   browserslist@4.24.4:
     dependencies:
       caniuse-lite: 1.0.30001697
-      electron-to-chromium: 1.5.93
+      electron-to-chromium: 1.5.94
       node-releases: 2.0.19
       update-browserslist-db: 1.1.2(browserslist@4.24.4)
 
@@ -6630,7 +6630,7 @@ snapshots:
 
   electron-to-chromium@1.5.62: {}
 
-  electron-to-chromium@1.5.93: {}
+  electron-to-chromium@1.5.94: {}
 
   emittery@0.13.1: {}
 
@@ -8644,7 +8644,7 @@ snapshots:
 
   pluralize@8.0.0: {}
 
-  pnpm@10.2.0: {}
+  pnpm@10.2.1: {}
 
   pofile@1.1.4: {}
 
@@ -9443,12 +9443,12 @@ snapshots:
       jest-worker: 27.5.1
       schema-utils: 4.3.0
       serialize-javascript: 6.0.2
-      terser: 5.38.0
+      terser: 5.38.1
       webpack: 5.92.0(esbuild@0.17.19)
     optionalDependencies:
       esbuild: 0.17.19
 
-  terser@5.38.0:
+  terser@5.38.1:
     dependencies:
       '@jridgewell/source-map': 0.3.6
       acorn: 8.14.0
