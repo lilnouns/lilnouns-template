@@ -52,7 +52,7 @@
     "cssnano": "7.0.6",
     "eslint": "9.21.0",
     "eslint-config-next": "14.1.4",
-    "eslint-config-prettier": "10.0.1",
+    "eslint-config-prettier": "10.0.2",
     "eslint-plugin-lingui": "0.10.0",
     "eslint-plugin-next-on-pages": "1.13.8",
     "eslint-plugin-prettier": "5.2.3",
