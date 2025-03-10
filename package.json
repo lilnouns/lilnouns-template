@@ -20,7 +20,7 @@
     "@lingui/core": "4.8.0",
     "@lingui/detect-locale": "4.8.0",
     "@lingui/react": "4.8.0",
-    "autoprefixer": "10.4.20",
+    "autoprefixer": "10.4.21",
     "clsx": "2.1.1",
     "hono": "4.7.2",
     "langs": "2.0.0",
