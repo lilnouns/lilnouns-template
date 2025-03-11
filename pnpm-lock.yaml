@@ -35,7 +35,7 @@ importers:
         version: 2.1.1
       hono:
         specifier: <=4.2.7
-        version: 4.7.4
+        version: 4.2.7
       langs:
         specifier: 2.0.0
         version: 2.0.0
@@ -119,8 +119,8 @@ importers:
         specifier: 14.1.4
         version: 14.1.4(eslint@9.22.0(jiti@1.21.6))(typescript@5.7.3)
       eslint-config-prettier:
-        specifier: 10.0.2
-        version: 10.0.2(eslint@9.22.0(jiti@1.21.6))
+        specifier: 10.1.1
+        version: 10.1.1(eslint@9.22.0(jiti@1.21.6))
       eslint-plugin-lingui:
         specifier: 0.10.0
         version: 0.10.0(eslint@9.22.0(jiti@1.21.6))(typescript@5.7.3)
@@ -129,7 +129,7 @@ importers:
         version: 1.13.9(eslint@9.22.0(jiti@1.21.6))
       eslint-plugin-prettier:
         specifier: 5.2.3
-        version: 5.2.3(@types/eslint@9.6.1)(eslint-config-prettier@10.0.2(eslint@9.22.0(jiti@1.21.6)))(eslint@9.22.0(jiti@1.21.6))(prettier@3.5.3)
+        version: 5.2.3(@types/eslint@9.6.1)(eslint-config-prettier@10.1.1(eslint@9.22.0(jiti@1.21.6)))(eslint@9.22.0(jiti@1.21.6))(prettier@3.5.3)
       eslint-plugin-tailwindcss:
         specifier: 3.18.0
         version: 3.18.0(tailwindcss@3.4.17)
@@ -2145,8 +2145,8 @@ packages:
       typescript:
         optional: true
 
-  eslint-config-prettier@10.0.2:
-    resolution: {integrity: sha512-1105/17ZIMjmCOJOPNfVdbXafLCLj3hPmkmB7dLgt7XsQ/zkxSuDerE/xgO3RxoHysR1N1whmquY0lSn2O0VLg==}
+  eslint-config-prettier@10.1.1:
+    resolution: {integrity: sha512-4EQQr6wXwS+ZJSzaR5ZCrYgLxqvUjdXctaEtBqHcbkW944B1NQyO4qpdHQbXBONfwxXdkAY81HH4+LUfrg+zPw==}
     hasBin: true
     peerDependencies:
       eslint: '>=7.0.0'
@@ -2560,9 +2560,9 @@ packages:
     resolution: {integrity: sha512-0hJU9SCPvmMzIBdZFqNPXWa6dqh7WdH0cII9y+CyS8rG3nL48Bclra9HmKhVVUHyPWNH5Y7xDwAB7bfgSjkUMQ==}
     engines: {node: '>= 0.4'}
 
-  hono@4.7.4:
-    resolution: {integrity: sha512-Pst8FuGqz3L7tFF+u9Pu70eI0xa5S3LPUmrNd5Jm8nTHze9FxLTK9Kaj5g/k4UcwuJSXTP65SyHOPLrffpcAJg==}
-    engines: {node: '>=16.9.0'}
+  hono@4.2.7:
+    resolution: {integrity: sha512-k1xHi86tJnRIVvqhFMBDGFKJ8r5O+bEsT4P59ZK59r0F300Xd910/r237inVfuT/VmE86RQQffX4OYNda6dLXw==}
+    engines: {node: '>=16.0.0'}
 
   hosted-git-info@7.0.2:
     resolution: {integrity: sha512-puUZAUKT5m8Zzvs72XWy3HtvVbTWljRE66cP60bxJzAqf2DgICo7lYTY2IHUmLnNpjYvw5bvmoHvPc0QO2a62w==}
@@ -7028,7 +7028,7 @@ snapshots:
       - eslint-import-resolver-webpack
       - supports-color
 
-  eslint-config-prettier@10.0.2(eslint@9.22.0(jiti@1.21.6)):
+  eslint-config-prettier@10.1.1(eslint@9.22.0(jiti@1.21.6)):
     dependencies:
       eslint: 9.22.0(jiti@1.21.6)
 
@@ -7130,7 +7130,7 @@ snapshots:
       comment-parser: 1.4.1
       eslint: 9.22.0(jiti@1.21.6)
 
-  eslint-plugin-prettier@5.2.3(@types/eslint@9.6.1)(eslint-config-prettier@10.0.2(eslint@9.22.0(jiti@1.21.6)))(eslint@9.22.0(jiti@1.21.6))(prettier@3.5.3):
+  eslint-plugin-prettier@5.2.3(@types/eslint@9.6.1)(eslint-config-prettier@10.1.1(eslint@9.22.0(jiti@1.21.6)))(eslint@9.22.0(jiti@1.21.6))(prettier@3.5.3):
     dependencies:
       eslint: 9.22.0(jiti@1.21.6)
       prettier: 3.5.3
@@ -7138,7 +7138,7 @@ snapshots:
       synckit: 0.9.2
     optionalDependencies:
       '@types/eslint': 9.6.1
-      eslint-config-prettier: 10.0.2(eslint@9.22.0(jiti@1.21.6))
+      eslint-config-prettier: 10.1.1(eslint@9.22.0(jiti@1.21.6))
 
   eslint-plugin-react-hooks@4.6.2(eslint@9.22.0(jiti@1.21.6)):
     dependencies:
@@ -7544,7 +7544,7 @@ snapshots:
     dependencies:
       function-bind: 1.1.2
 
-  hono@4.7.4: {}
+  hono@4.2.7: {}
 
   hosted-git-info@7.0.2:
     dependencies:
