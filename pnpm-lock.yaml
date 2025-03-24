@@ -35,7 +35,7 @@ importers:
         version: 2.1.1
       hono:
         specifier: <=4.2.7
-        version: 4.7.5
+        version: 4.2.7
       langs:
         specifier: 2.0.0
         version: 2.0.0
@@ -71,8 +71,8 @@ importers:
         version: 0.1.1(react@19.0.0)
     devDependencies:
       '@cloudflare/workers-types':
-        specifier: 4.20250320.0
-        version: 4.20250320.0
+        specifier: 4.20250321.0
+        version: 4.20250321.0
       '@lingui/cli':
         specifier: 4.8.0
         version: 4.8.0(typescript@5.7.3)
@@ -180,7 +180,7 @@ importers:
         version: 5.7.3
       wrangler:
         specifier: 4.4.0
-        version: 4.4.0(@cloudflare/workers-types@4.20250320.0)
+        version: 4.4.0(@cloudflare/workers-types@4.20250321.0)
 
 packages:
 
@@ -421,8 +421,8 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@cloudflare/workers-types@4.20250320.0':
-    resolution: {integrity: sha512-0qYPnnF36eEzes/uLBrIE7pbyOucnyNVTlcPY4zgakZT0BBdrHYoTDGH+9VqwfcMW7mLu2PY2daYGIFsgycX2A==}
+  '@cloudflare/workers-types@4.20250321.0':
+    resolution: {integrity: sha512-jPwtZJC7tVFOwFazuwq96be8haTnY9qik8hJ+oLFi50d9LTWPPrnrNHC4OxZmJTEcPIAy0y1WFZHe8C/b7xFXQ==}
 
   '@corex/deepmerge@4.0.43':
     resolution: {integrity: sha512-N8uEMrMPL0cu/bdboEWpQYb/0i2K5Qn8eCsxzOmxSggJbbQte7ljMRoXm917AbntqTGOzdTu+vP3KOOzoC70HQ==}
@@ -1295,6 +1295,9 @@ packages:
 
   '@types/estree@1.0.6':
     resolution: {integrity: sha512-AYnb1nQyY49te+VRAVgmzfcgjYS91mY5P0TKUDCLEM+gNnA+3T6rWITXRLYCpahpqSQbN5cE+gHpnPyXjHWxcw==}
+
+  '@types/estree@1.0.7':
+    resolution: {integrity: sha512-w28IoSUCJpidD/TGviZwwMJckNESJZXFu7NBZ5YJ4mEUnNraUn9Pm8HSZm/jDF1pDWYKspWE7oVphigUPRakIQ==}
 
   '@types/graceful-fs@4.1.9':
     resolution: {integrity: sha512-olP3sd1qOEe5dXTSaFvQG+02VdRXcdytWLAZsAq1PecU8uqQAhkrnbli7DagjtXKW/Bl7YJbUsa8MPcuc8LHEQ==}
@@ -2702,9 +2705,9 @@ packages:
     resolution: {integrity: sha512-0hJU9SCPvmMzIBdZFqNPXWa6dqh7WdH0cII9y+CyS8rG3nL48Bclra9HmKhVVUHyPWNH5Y7xDwAB7bfgSjkUMQ==}
     engines: {node: '>= 0.4'}
 
-  hono@4.7.5:
-    resolution: {integrity: sha512-fDOK5W2C1vZACsgLONigdZTRZxuBqFtcKh7bUQ5cVSbwI2RWjloJDcgFOVzbQrlI6pCmhlTsVYZ7zpLj4m4qMQ==}
-    engines: {node: '>=16.9.0'}
+  hono@4.2.7:
+    resolution: {integrity: sha512-k1xHi86tJnRIVvqhFMBDGFKJ8r5O+bEsT4P59ZK59r0F300Xd910/r237inVfuT/VmE86RQQffX4OYNda6dLXw==}
+    engines: {node: '>=16.0.0'}
 
   hosted-git-info@7.0.2:
     resolution: {integrity: sha512-puUZAUKT5m8Zzvs72XWy3HtvVbTWljRE66cP60bxJzAqf2DgICo7lYTY2IHUmLnNpjYvw5bvmoHvPc0QO2a62w==}
@@ -5196,7 +5199,7 @@ snapshots:
   '@cloudflare/workerd-windows-64@1.20250320.0':
     optional: true
 
-  '@cloudflare/workers-types@4.20250320.0': {}
+  '@cloudflare/workers-types@4.20250321.0': {}
 
   '@corex/deepmerge@4.0.43': {}
 
@@ -6036,11 +6039,11 @@ snapshots:
   '@types/eslint-scope@3.7.7':
     dependencies:
       '@types/eslint': 9.6.1
-      '@types/estree': 1.0.6
+      '@types/estree': 1.0.7
 
   '@types/eslint@9.6.1':
     dependencies:
-      '@types/estree': 1.0.6
+      '@types/estree': 1.0.7
       '@types/json-schema': 7.0.15
 
   '@types/estree-jsx@1.0.5':
@@ -6048,6 +6051,8 @@ snapshots:
       '@types/estree': 1.0.6
 
   '@types/estree@1.0.6': {}
+
+  '@types/estree@1.0.7': {}
 
   '@types/graceful-fs@4.1.9':
     dependencies:
@@ -7759,7 +7764,7 @@ snapshots:
     dependencies:
       function-bind: 1.1.2
 
-  hono@4.7.5: {}
+  hono@4.2.7: {}
 
   hosted-git-info@7.0.2:
     dependencies:
@@ -10131,7 +10136,7 @@ snapshots:
   webpack@5.92.0:
     dependencies:
       '@types/eslint-scope': 3.7.7
-      '@types/estree': 1.0.6
+      '@types/estree': 1.0.7
       '@webassemblyjs/ast': 1.14.1
       '@webassemblyjs/wasm-edit': 1.14.1
       '@webassemblyjs/wasm-parser': 1.14.1
@@ -10228,7 +10233,7 @@ snapshots:
       '@cloudflare/workerd-linux-arm64': 1.20250320.0
       '@cloudflare/workerd-windows-64': 1.20250320.0
 
-  wrangler@4.4.0(@cloudflare/workers-types@4.20250320.0):
+  wrangler@4.4.0(@cloudflare/workers-types@4.20250321.0):
     dependencies:
       '@cloudflare/kv-asset-handler': 0.4.0
       '@cloudflare/unenv-preset': 2.3.0(unenv@2.0.0-rc.15)(workerd@1.20250320.0)
@@ -10239,7 +10244,7 @@ snapshots:
       unenv: 2.0.0-rc.15
       workerd: 1.20250320.0
     optionalDependencies:
-      '@cloudflare/workers-types': 4.20250320.0
+      '@cloudflare/workers-types': 4.20250321.0
       fsevents: 2.3.3
       sharp: 0.33.5
     transitivePeerDependencies:
