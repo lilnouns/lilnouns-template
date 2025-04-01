@@ -35,7 +35,7 @@ importers:
         version: 2.1.1
       hono:
         specifier: <=4.2.7
-        version: 4.7.5
+        version: 4.2.7
       langs:
         specifier: 2.0.0
         version: 2.0.0
@@ -125,8 +125,8 @@ importers:
         specifier: 0.10.0
         version: 0.10.0(eslint@9.23.0(jiti@1.21.6))(typescript@5.7.3)
       eslint-plugin-next-on-pages:
-        specifier: 1.13.10
-        version: 1.13.10(eslint@9.23.0(jiti@1.21.6))
+        specifier: 1.13.11
+        version: 1.13.11(eslint@9.23.0(jiti@1.21.6))
       eslint-plugin-prettier:
         specifier: 5.2.5
         version: 5.2.5(@types/eslint@9.6.1)(eslint-config-prettier@10.1.1(eslint@9.23.0(jiti@1.21.6)))(eslint@9.23.0(jiti@1.21.6))(prettier@3.5.3)
@@ -2346,8 +2346,8 @@ packages:
     peerDependencies:
       eslint: ^8.37.0 || ^9.0.0
 
-  eslint-plugin-next-on-pages@1.13.10:
-    resolution: {integrity: sha512-p8wllngvsFEO+iOsKUFWmuN+hgkA1zt420sopfUuIDiw/SO1orH8KWPQ2xsqF+9c2ENCKyJ5OdipBM3H+kL8Dw==}
+  eslint-plugin-next-on-pages@1.13.11:
+    resolution: {integrity: sha512-vipvSXHkG5au+81N23xFguQcCqgY0KpI+X4x53Y0RgcLCaHcakn9oEybSm0dlJlNszEDayPV5oD/BoPFUfVOkg==}
     peerDependencies:
       eslint: ^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0
 
@@ -2699,9 +2699,9 @@ packages:
     resolution: {integrity: sha512-0hJU9SCPvmMzIBdZFqNPXWa6dqh7WdH0cII9y+CyS8rG3nL48Bclra9HmKhVVUHyPWNH5Y7xDwAB7bfgSjkUMQ==}
     engines: {node: '>= 0.4'}
 
-  hono@4.7.5:
-    resolution: {integrity: sha512-fDOK5W2C1vZACsgLONigdZTRZxuBqFtcKh7bUQ5cVSbwI2RWjloJDcgFOVzbQrlI6pCmhlTsVYZ7zpLj4m4qMQ==}
-    engines: {node: '>=16.9.0'}
+  hono@4.2.7:
+    resolution: {integrity: sha512-k1xHi86tJnRIVvqhFMBDGFKJ8r5O+bEsT4P59ZK59r0F300Xd910/r237inVfuT/VmE86RQQffX4OYNda6dLXw==}
+    engines: {node: '>=16.0.0'}
 
   hosted-git-info@7.0.2:
     resolution: {integrity: sha512-puUZAUKT5m8Zzvs72XWy3HtvVbTWljRE66cP60bxJzAqf2DgICo7lYTY2IHUmLnNpjYvw5bvmoHvPc0QO2a62w==}
@@ -6037,7 +6037,7 @@ snapshots:
 
   '@types/estree-jsx@1.0.5':
     dependencies:
-      '@types/estree': 1.0.6
+      '@types/estree': 1.0.7
 
   '@types/estree@1.0.6': {}
 
@@ -7335,7 +7335,7 @@ snapshots:
       - supports-color
       - typescript
 
-  eslint-plugin-next-on-pages@1.13.10(eslint@9.23.0(jiti@1.21.6)):
+  eslint-plugin-next-on-pages@1.13.11(eslint@9.23.0(jiti@1.21.6)):
     dependencies:
       '@types/estree-jsx': 1.0.5
       comment-parser: 1.4.1
@@ -7754,7 +7754,7 @@ snapshots:
     dependencies:
       function-bind: 1.1.2
 
-  hono@4.7.5: {}
+  hono@4.2.7: {}
 
   hosted-git-info@7.0.2:
     dependencies:
