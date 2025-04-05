@@ -125,8 +125,8 @@ importers:
         specifier: 0.10.0
         version: 0.10.0(eslint@9.23.0(jiti@1.21.6))(typescript@5.7.3)
       eslint-plugin-next-on-pages:
-        specifier: 1.13.10
-        version: 1.13.10(eslint@9.23.0(jiti@1.21.6))
+        specifier: 1.13.12
+        version: 1.13.12(eslint@9.23.0(jiti@1.21.6))
       eslint-plugin-prettier:
         specifier: 5.2.5
         version: 5.2.5(@types/eslint@9.6.1)(eslint-config-prettier@10.1.1(eslint@9.23.0(jiti@1.21.6)))(eslint@9.23.0(jiti@1.21.6))(prettier@3.5.3)
@@ -2346,8 +2346,8 @@ packages:
     peerDependencies:
       eslint: ^8.37.0 || ^9.0.0
 
-  eslint-plugin-next-on-pages@1.13.10:
-    resolution: {integrity: sha512-p8wllngvsFEO+iOsKUFWmuN+hgkA1zt420sopfUuIDiw/SO1orH8KWPQ2xsqF+9c2ENCKyJ5OdipBM3H+kL8Dw==}
+  eslint-plugin-next-on-pages@1.13.12:
+    resolution: {integrity: sha512-GC4YTGOEjSyV85WQzsX0eSFyiRxTGnoz4XQzKT9/apoa/cwsoKszzmOBmRlU4KGFqLlZx0eBshsHDG6h2mLR1A==}
     peerDependencies:
       eslint: ^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0
 
@@ -6037,7 +6037,7 @@ snapshots:
 
   '@types/estree-jsx@1.0.5':
     dependencies:
-      '@types/estree': 1.0.6
+      '@types/estree': 1.0.7
 
   '@types/estree@1.0.6': {}
 
@@ -7335,7 +7335,7 @@ snapshots:
       - supports-color
       - typescript
 
-  eslint-plugin-next-on-pages@1.13.10(eslint@9.23.0(jiti@1.21.6)):
+  eslint-plugin-next-on-pages@1.13.12(eslint@9.23.0(jiti@1.21.6)):
     dependencies:
       '@types/estree-jsx': 1.0.5
       comment-parser: 1.4.1
