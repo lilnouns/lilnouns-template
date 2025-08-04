@@ -62,7 +62,7 @@
     "incstr": "1.2.3",
     "jest": "29.7.0",
     "jest-environment-jsdom": "29.7.0",
-    "lint-staged": "15.5.1",
+    "lint-staged": "16.1.4",
     "mangle-css-class-webpack-plugin": "5.1.0",
     "pnpm": "10.9.0",
     "prettier": "3.5.3",
