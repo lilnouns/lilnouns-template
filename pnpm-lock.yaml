@@ -71,8 +71,8 @@ importers:
         version: 0.1.1(react@19.1.1)
     devDependencies:
       '@cloudflare/workers-types':
-        specifier: 4.20250810.0
-        version: 4.20250810.0
+        specifier: 4.20250813.0
+        version: 4.20250813.0
       '@lingui/cli':
         specifier: 4.8.0
         version: 4.8.0(typescript@5.8.3)
@@ -180,7 +180,7 @@ importers:
         version: 5.8.3
       wrangler:
         specifier: 4.13.0
-        version: 4.13.0(@cloudflare/workers-types@4.20250810.0)
+        version: 4.13.0(@cloudflare/workers-types@4.20250813.0)
 
 packages:
 
@@ -501,8 +501,8 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@cloudflare/workers-types@4.20250810.0':
-    resolution: {integrity: sha512-GAJcKMrlWrrgfpFkYAc9AYiyPM1sMfY0gzrNA7T+J7kVh82hdIWXaz7bykc+B/kgDRteO7RBKfwVEU0rB/hk2Q==}
+  '@cloudflare/workers-types@4.20250813.0':
+    resolution: {integrity: sha512-RFFjomDndGR+p7ug1HWDlW21qOJyRZbmI99dUtuR9tmwJbSZhUUnSFmzok9lBYVfkMMrO1O5vmB+IlgiecgLEA==}
 
   '@corex/deepmerge@4.0.43':
     resolution: {integrity: sha512-N8uEMrMPL0cu/bdboEWpQYb/0i2K5Qn8eCsxzOmxSggJbbQte7ljMRoXm917AbntqTGOzdTu+vP3KOOzoC70HQ==}
@@ -5501,7 +5501,7 @@ snapshots:
   '@cloudflare/workerd-windows-64@1.20250422.0':
     optional: true
 
-  '@cloudflare/workers-types@4.20250810.0': {}
+  '@cloudflare/workers-types@4.20250813.0': {}
 
   '@corex/deepmerge@4.0.43': {}
 
@@ -10623,7 +10623,7 @@ snapshots:
       '@cloudflare/workerd-linux-arm64': 1.20250422.0
       '@cloudflare/workerd-windows-64': 1.20250422.0
 
-  wrangler@4.13.0(@cloudflare/workers-types@4.20250810.0):
+  wrangler@4.13.0(@cloudflare/workers-types@4.20250813.0):
     dependencies:
       '@cloudflare/kv-asset-handler': 0.4.0
       '@cloudflare/unenv-preset': 2.3.1(unenv@2.0.0-rc.15)(workerd@1.20250422.0)
@@ -10634,7 +10634,7 @@ snapshots:
       unenv: 2.0.0-rc.15
       workerd: 1.20250422.0
     optionalDependencies:
-      '@cloudflare/workers-types': 4.20250810.0
+      '@cloudflare/workers-types': 4.20250813.0
       fsevents: 2.3.3
       sharp: 0.33.5
     transitivePeerDependencies:
