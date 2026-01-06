@@ -1,6 +1,6 @@
 {
   "name": "lilnouns-template",
-  "version": "1.1.69",
+  "version": "1.1.70",
   "private": true,
   "scripts": {
     "dev": "pnpm run --stream --parallel /^dev:/",
@@ -79,8 +79,8 @@
     "hono": "<=4.2.7"
   },
   "engines": {
-    "node": ">=18.0.0",
-    "pnpm": ">=9.0.0"
+    "node": "^18",
+    "pnpm": "^9"
   },
   "packageManager": "pnpm@9.9.0",
   "funding": [
