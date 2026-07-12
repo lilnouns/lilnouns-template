@@ -125,8 +125,8 @@ importers:
         specifier: 0.10.1
         version: 0.10.1(eslint@9.39.5(jiti@1.21.7))(typescript@5.8.3)
       eslint-plugin-next-on-pages:
-        specifier: 1.13.13
-        version: 1.13.13(eslint@9.39.5(jiti@1.21.7))
+        specifier: 1.13.16
+        version: 1.13.16(eslint@9.39.5(jiti@1.21.7))
       eslint-plugin-prettier:
         specifier: 5.5.4
         version: 5.5.4(@types/eslint@9.6.1)(eslint-config-prettier@10.1.8(eslint@9.39.5(jiti@1.21.7)))(eslint@9.39.5(jiti@1.21.7))(prettier@3.6.2)
@@ -2115,6 +2115,10 @@ packages:
     resolution: {integrity: sha512-buhp5kePrmda3vhc5B9t7pUQXAb2Tnd0qgpkIhPhkHXxJpiPJ11H0ZEU0oBpJ2QztSbzG/ZxMj/CHsYJqRHmyg==}
     engines: {node: '>= 12.0.0'}
 
+  comment-parser@1.4.7:
+    resolution: {integrity: sha512-0h+uSNtQGW3D98eQt3jJ8L06Fves8hncB4V/PKdw/Qb8Hnk19VaKuTr55UNRYiSoVa7WwrFls+rh3ux9agmkeQ==}
+    engines: {node: '>= 12.0.0'}
+
   concat-map@0.0.1:
     resolution: {integrity: sha512-/Srv4dswyQNBfohGpz9o6Yb3Gz3SrUDqBH5rTuhGR7ahtlbYKnVxw2bCFMRljaA7EXHaXZ8wsHdodFvbkhKmqg==}
 
@@ -2524,8 +2528,8 @@ packages:
     peerDependencies:
       eslint: ^8.37.0 || ^9.0.0
 
-  eslint-plugin-next-on-pages@1.13.13:
-    resolution: {integrity: sha512-VXDY12C8wCPFEGZ7kICzpmy/PfDYSlN5hXub/O1QK7A0WAEeIPFDTFLY6PMM58vGitKTlcjpACc+CQcvcn3XTA==}
+  eslint-plugin-next-on-pages@1.13.16:
+    resolution: {integrity: sha512-KJ2JuU5rHBC9znUk3wmtNgpx7TQnV1bBOtzk/CrBpDahDYTxdy92WNGDiNmoia4uo53R6c/8r14nwN87iXN3mw==}
     deprecated: Package no longer supported. Contact Support at https://www.npmjs.com/support for more info.
     peerDependencies:
       eslint: ^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0
@@ -6308,7 +6312,7 @@ snapshots:
 
   '@testing-library/react@16.3.2(@testing-library/dom@10.4.1)(@types/react-dom@19.1.7(@types/react@19.1.10))(@types/react@19.1.10)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
     dependencies:
-      '@babel/runtime': 7.29.2
+      '@babel/runtime': 7.29.7
       '@testing-library/dom': 10.4.1
       react: 19.1.1
       react-dom: 19.1.1(react@19.1.1)
@@ -7120,6 +7124,8 @@ snapshots:
 
   comment-parser@1.4.1: {}
 
+  comment-parser@1.4.7: {}
+
   concat-map@0.0.1: {}
 
   convert-source-map@2.0.0: {}
@@ -7681,10 +7687,10 @@ snapshots:
       - supports-color
       - typescript
 
-  eslint-plugin-next-on-pages@1.13.13(eslint@9.39.5(jiti@1.21.7)):
+  eslint-plugin-next-on-pages@1.13.16(eslint@9.39.5(jiti@1.21.7)):
     dependencies:
       '@types/estree-jsx': 1.0.5
-      comment-parser: 1.4.1
+      comment-parser: 1.4.7
       eslint: 9.39.5(jiti@1.21.7)
 
   eslint-plugin-prettier@5.5.4(@types/eslint@9.6.1)(eslint-config-prettier@10.1.8(eslint@9.39.5(jiti@1.21.7)))(eslint@9.39.5(jiti@1.21.7))(prettier@3.6.2):
@@ -9817,7 +9823,7 @@ snapshots:
 
   rtl-css-js@1.16.1:
     dependencies:
-      '@babel/runtime': 7.29.2
+      '@babel/runtime': 7.29.7
 
   run-async@2.4.1: {}
 
