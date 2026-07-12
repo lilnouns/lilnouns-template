@@ -57,7 +57,7 @@
     "eslint-plugin-next-on-pages": "1.13.16",
     "eslint-plugin-prettier": "5.5.4",
     "eslint-plugin-tailwindcss": "3.18.2",
-    "eslint-plugin-unicorn": "60.0.0",
+    "eslint-plugin-unicorn": "65.0.1",
     "husky": "9.1.7",
     "incstr": "1.2.3",
     "jest": "30.0.5",
