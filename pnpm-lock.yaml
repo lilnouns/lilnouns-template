@@ -35,7 +35,7 @@ importers:
         version: 2.1.1
       hono:
         specifier: <=4.2.7
-        version: 4.12.29
+        version: 4.2.7
       langs:
         specifier: 2.0.0
         version: 2.0.0
@@ -89,8 +89,8 @@ importers:
         specifier: 4.8.0
         version: 4.8.0(@lingui/react@4.8.0(react@19.2.7))(babel-plugin-macros@3.1.0)(typescript@5.8.3)
       '@lingui/swc-plugin':
-        specifier: 4.0.6
-        version: 4.0.6(@lingui/macro@4.8.0(@lingui/react@4.8.0(react@19.2.7))(babel-plugin-macros@3.1.0)(typescript@5.8.3))(next@14.1.4(@babel/core@7.28.4)(babel-plugin-macros@3.1.0)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))
+        specifier: 4.0.10
+        version: 4.0.10(@lingui/macro@4.8.0(@lingui/react@4.8.0(react@19.2.7))(babel-plugin-macros@3.1.0)(typescript@5.8.3))(next@14.1.4(@babel/core@7.28.4)(babel-plugin-macros@3.1.0)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))
       '@testing-library/jest-dom':
         specifier: 6.9.1
         version: 6.9.1
@@ -1159,8 +1159,8 @@ packages:
     peerDependencies:
       react: ^16.8.0 || ^17.0.0 || ^18.0.0
 
-  '@lingui/swc-plugin@4.0.6':
-    resolution: {integrity: sha512-jW32d+t/faHGrgzZXzGbDmadElqHQ9FvGf2aoq7YelXBPG9cf/lAkZlpxNjAzRhbscupB0YPtBjC49XoIIzKMg==}
+  '@lingui/swc-plugin@4.0.10':
+    resolution: {integrity: sha512-CPZkywUdG8HsEIxsRAAvx30KZmfxzh126yCvHq0suyvZZRLOVoNdlrUw1N9MfsB7YJsPLgD+XLGjRkeyo7ZduQ==}
     peerDependencies:
       '@lingui/macro': '4'
       '@swc/core': '*'
@@ -2983,9 +2983,9 @@ packages:
     resolution: {integrity: sha512-ej4AhfhfL2Q2zpMmLo7U1Uv9+PyhIZpgQLGT1F9miIGmiCJIoCgSmczFdrc97mWT4kVY72KA+WnnhJ5pghSvSg==}
     engines: {node: '>= 0.4'}
 
-  hono@4.12.29:
-    resolution: {integrity: sha512-1hNiRjawYrLq/4m3DQQjPGFg0VZkk4RjQJDff/excI6Dm9BiL75qxGrd7/c6YOxPdq6AscP3LiXhQ6fKFC1Waw==}
-    engines: {node: '>=16.9.0'}
+  hono@4.2.7:
+    resolution: {integrity: sha512-k1xHi86tJnRIVvqhFMBDGFKJ8r5O+bEsT4P59ZK59r0F300Xd910/r237inVfuT/VmE86RQQffX4OYNda6dLXw==}
+    engines: {node: '>=16.0.0'}
 
   html-encoding-sniffer@4.0.0:
     resolution: {integrity: sha512-Y22oTqIU4uuPgEemfz7NDJz6OeKf12Lsu+QC+s3BVpda64lTiMYCyGwg5ki4vFxkMwQdeZDl2adZoqUgdFuTgQ==}
@@ -6272,7 +6272,7 @@ snapshots:
       '@lingui/core': 4.8.0
       react: 19.2.7
 
-  '@lingui/swc-plugin@4.0.6(@lingui/macro@4.8.0(@lingui/react@4.8.0(react@19.2.7))(babel-plugin-macros@3.1.0)(typescript@5.8.3))(next@14.1.4(@babel/core@7.28.4)(babel-plugin-macros@3.1.0)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))':
+  '@lingui/swc-plugin@4.0.10(@lingui/macro@4.8.0(@lingui/react@4.8.0(react@19.2.7))(babel-plugin-macros@3.1.0)(typescript@5.8.3))(next@14.1.4(@babel/core@7.28.4)(babel-plugin-macros@3.1.0)(react-dom@19.2.7(react@19.2.7))(react@19.2.7))':
     dependencies:
       '@lingui/macro': 4.8.0(@lingui/react@4.8.0(react@19.2.7))(babel-plugin-macros@3.1.0)(typescript@5.8.3)
     optionalDependencies:
@@ -8285,7 +8285,7 @@ snapshots:
     dependencies:
       function-bind: 1.1.2
 
-  hono@4.12.29: {}
+  hono@4.2.7: {}
 
   html-encoding-sniffer@4.0.0:
     dependencies:
